@@ -1,0 +1,16 @@
+Dataset A/
+Dataset B/
+*.csv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+tmp/
+temp/
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+abc.txt

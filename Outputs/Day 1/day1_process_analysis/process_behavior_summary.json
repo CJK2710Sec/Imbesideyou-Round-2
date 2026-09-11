@@ -1,0 +1,705 @@
+{
+  "dataset": "Dataset A",
+  "sessions": 63,
+  "processes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O"
+  ],
+  "total_transitions": 1590,
+  "process_statistics": [
+    {
+      "process": "A",
+      "sessions_present": 40,
+      "session_presence_ratio": 0.6349,
+      "process_started_events": 130,
+      "unique_process_case_executions": 126,
+      "avg_starts_per_session": 3.25,
+      "avg_executions_per_session": 3.15,
+      "incoming_transitions": 125,
+      "outgoing_transitions": 132,
+      "total_transitions": 257,
+      "suspended_events": 13,
+      "resumed_events": 29,
+      "gt_events_associated": 941
+    },
+    {
+      "process": "B",
+      "sessions_present": 35,
+      "session_presence_ratio": 0.5556,
+      "process_started_events": 83,
+      "unique_process_case_executions": 83,
+      "avg_starts_per_session": 2.371,
+      "avg_executions_per_session": 2.371,
+      "incoming_transitions": 106,
+      "outgoing_transitions": 87,
+      "total_transitions": 193,
+      "suspended_events": 26,
+      "resumed_events": 43,
+      "gt_events_associated": 640
+    },
+    {
+      "process": "C",
+      "sessions_present": 43,
+      "session_presence_ratio": 0.6825,
+      "process_started_events": 161,
+      "unique_process_case_executions": 161,
+      "avg_starts_per_session": 3.744,
+      "avg_executions_per_session": 3.744,
+      "incoming_transitions": 125,
+      "outgoing_transitions": 135,
+      "total_transitions": 260,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 782
+    },
+    {
+      "process": "D",
+      "sessions_present": 38,
+      "session_presence_ratio": 0.6032,
+      "process_started_events": 114,
+      "unique_process_case_executions": 114,
+      "avg_starts_per_session": 3.0,
+      "avg_executions_per_session": 3.0,
+      "incoming_transitions": 88,
+      "outgoing_transitions": 91,
+      "total_transitions": 179,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 437
+    },
+    {
+      "process": "E",
+      "sessions_present": 37,
+      "session_presence_ratio": 0.5873,
+      "process_started_events": 111,
+      "unique_process_case_executions": 111,
+      "avg_starts_per_session": 3.0,
+      "avg_executions_per_session": 3.0,
+      "incoming_transitions": 87,
+      "outgoing_transitions": 81,
+      "total_transitions": 168,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 649
+    },
+    {
+      "process": "F",
+      "sessions_present": 41,
+      "session_presence_ratio": 0.6508,
+      "process_started_events": 115,
+      "unique_process_case_executions": 112,
+      "avg_starts_per_session": 2.805,
+      "avg_executions_per_session": 2.732,
+      "incoming_transitions": 133,
+      "outgoing_transitions": 126,
+      "total_transitions": 259,
+      "suspended_events": 23,
+      "resumed_events": 54,
+      "gt_events_associated": 996
+    },
+    {
+      "process": "G",
+      "sessions_present": 39,
+      "session_presence_ratio": 0.619,
+      "process_started_events": 144,
+      "unique_process_case_executions": 140,
+      "avg_starts_per_session": 3.692,
+      "avg_executions_per_session": 3.59,
+      "incoming_transitions": 108,
+      "outgoing_transitions": 121,
+      "total_transitions": 229,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 725
+    },
+    {
+      "process": "H",
+      "sessions_present": 39,
+      "session_presence_ratio": 0.619,
+      "process_started_events": 147,
+      "unique_process_case_executions": 143,
+      "avg_starts_per_session": 3.769,
+      "avg_executions_per_session": 3.667,
+      "incoming_transitions": 110,
+      "outgoing_transitions": 118,
+      "total_transitions": 228,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 859
+    },
+    {
+      "process": "I",
+      "sessions_present": 39,
+      "session_presence_ratio": 0.619,
+      "process_started_events": 117,
+      "unique_process_case_executions": 114,
+      "avg_starts_per_session": 3.0,
+      "avg_executions_per_session": 2.923,
+      "incoming_transitions": 94,
+      "outgoing_transitions": 99,
+      "total_transitions": 193,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 572
+    },
+    {
+      "process": "J",
+      "sessions_present": 34,
+      "session_presence_ratio": 0.5397,
+      "process_started_events": 102,
+      "unique_process_case_executions": 99,
+      "avg_starts_per_session": 3.0,
+      "avg_executions_per_session": 2.912,
+      "incoming_transitions": 80,
+      "outgoing_transitions": 79,
+      "total_transitions": 159,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 596
+    },
+    {
+      "process": "K",
+      "sessions_present": 32,
+      "session_presence_ratio": 0.5079,
+      "process_started_events": 102,
+      "unique_process_case_executions": 102,
+      "avg_starts_per_session": 3.188,
+      "avg_executions_per_session": 3.188,
+      "incoming_transitions": 99,
+      "outgoing_transitions": 95,
+      "total_transitions": 194,
+      "suspended_events": 15,
+      "resumed_events": 25,
+      "gt_events_associated": 746
+    },
+    {
+      "process": "L",
+      "sessions_present": 37,
+      "session_presence_ratio": 0.5873,
+      "process_started_events": 98,
+      "unique_process_case_executions": 96,
+      "avg_starts_per_session": 2.649,
+      "avg_executions_per_session": 2.595,
+      "incoming_transitions": 116,
+      "outgoing_transitions": 100,
+      "total_transitions": 216,
+      "suspended_events": 22,
+      "resumed_events": 39,
+      "gt_events_associated": 696
+    },
+    {
+      "process": "M",
+      "sessions_present": 42,
+      "session_presence_ratio": 0.6667,
+      "process_started_events": 155,
+      "unique_process_case_executions": 155,
+      "avg_starts_per_session": 3.69,
+      "avg_executions_per_session": 3.69,
+      "incoming_transitions": 129,
+      "outgoing_transitions": 137,
+      "total_transitions": 266,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 761
+    },
+    {
+      "process": "N",
+      "sessions_present": 43,
+      "session_presence_ratio": 0.6825,
+      "process_started_events": 129,
+      "unique_process_case_executions": 126,
+      "avg_starts_per_session": 3.0,
+      "avg_executions_per_session": 2.93,
+      "incoming_transitions": 102,
+      "outgoing_transitions": 104,
+      "total_transitions": 206,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 496
+    },
+    {
+      "process": "O",
+      "sessions_present": 37,
+      "session_presence_ratio": 0.5873,
+      "process_started_events": 111,
+      "unique_process_case_executions": 111,
+      "avg_starts_per_session": 3.0,
+      "avg_executions_per_session": 3.0,
+      "incoming_transitions": 88,
+      "outgoing_transitions": 85,
+      "total_transitions": 173,
+      "suspended_events": 0,
+      "resumed_events": 0,
+      "gt_events_associated": 650
+    }
+  ],
+  "top_predecessors": [
+    {
+      "process": "C",
+      "predecessor": "M",
+      "count": 18
+    },
+    {
+      "process": "J",
+      "predecessor": "G",
+      "count": 17
+    },
+    {
+      "process": "H",
+      "predecessor": "G",
+      "count": 17
+    },
+    {
+      "process": "A",
+      "predecessor": "F",
+      "count": 15
+    },
+    {
+      "process": "I",
+      "predecessor": "A",
+      "count": 15
+    },
+    {
+      "process": "A",
+      "predecessor": "M",
+      "count": 15
+    },
+    {
+      "process": "M",
+      "predecessor": "C",
+      "count": 15
+    },
+    {
+      "process": "A",
+      "predecessor": "B",
+      "count": 13
+    },
+    {
+      "process": "F",
+      "predecessor": "K",
+      "count": 13
+    },
+    {
+      "process": "F",
+      "predecessor": "A",
+      "count": 13
+    },
+    {
+      "process": "M",
+      "predecessor": "N",
+      "count": 13
+    },
+    {
+      "process": "K",
+      "predecessor": "H",
+      "count": 13
+    },
+    {
+      "process": "N",
+      "predecessor": "M",
+      "count": 13
+    },
+    {
+      "process": "C",
+      "predecessor": "F",
+      "count": 13
+    },
+    {
+      "process": "A",
+      "predecessor": "C",
+      "count": 13
+    },
+    {
+      "process": "D",
+      "predecessor": "A",
+      "count": 13
+    },
+    {
+      "process": "B",
+      "predecessor": "C",
+      "count": 12
+    },
+    {
+      "process": "C",
+      "predecessor": "A",
+      "count": 12
+    },
+    {
+      "process": "E",
+      "predecessor": "A",
+      "count": 12
+    },
+    {
+      "process": "L",
+      "predecessor": "G",
+      "count": 12
+    },
+    {
+      "process": "I",
+      "predecessor": "L",
+      "count": 12
+    },
+    {
+      "process": "L",
+      "predecessor": "H",
+      "count": 12
+    },
+    {
+      "process": "F",
+      "predecessor": "C",
+      "count": 12
+    },
+    {
+      "process": "B",
+      "predecessor": "A",
+      "count": 12
+    },
+    {
+      "process": "L",
+      "predecessor": "I",
+      "count": 12
+    },
+    {
+      "process": "K",
+      "predecessor": "G",
+      "count": 12
+    },
+    {
+      "process": "O",
+      "predecessor": "C",
+      "count": 12
+    },
+    {
+      "process": "F",
+      "predecessor": "N",
+      "count": 12
+    },
+    {
+      "process": "F",
+      "predecessor": "E",
+      "count": 12
+    },
+    {
+      "process": "B",
+      "predecessor": "F",
+      "count": 12
+    }
+  ],
+  "top_successors": [
+    {
+      "process": "M",
+      "successor": "C",
+      "count": 18
+    },
+    {
+      "process": "G",
+      "successor": "J",
+      "count": 17
+    },
+    {
+      "process": "G",
+      "successor": "H",
+      "count": 17
+    },
+    {
+      "process": "F",
+      "successor": "A",
+      "count": 15
+    },
+    {
+      "process": "A",
+      "successor": "I",
+      "count": 15
+    },
+    {
+      "process": "M",
+      "successor": "A",
+      "count": 15
+    },
+    {
+      "process": "C",
+      "successor": "M",
+      "count": 15
+    },
+    {
+      "process": "B",
+      "successor": "A",
+      "count": 13
+    },
+    {
+      "process": "K",
+      "successor": "F",
+      "count": 13
+    },
+    {
+      "process": "A",
+      "successor": "F",
+      "count": 13
+    },
+    {
+      "process": "N",
+      "successor": "M",
+      "count": 13
+    },
+    {
+      "process": "H",
+      "successor": "K",
+      "count": 13
+    },
+    {
+      "process": "M",
+      "successor": "N",
+      "count": 13
+    },
+    {
+      "process": "F",
+      "successor": "C",
+      "count": 13
+    },
+    {
+      "process": "C",
+      "successor": "A",
+      "count": 13
+    },
+    {
+      "process": "A",
+      "successor": "D",
+      "count": 13
+    },
+    {
+      "process": "C",
+      "successor": "B",
+      "count": 12
+    },
+    {
+      "process": "A",
+      "successor": "C",
+      "count": 12
+    },
+    {
+      "process": "A",
+      "successor": "E",
+      "count": 12
+    },
+    {
+      "process": "G",
+      "successor": "L",
+      "count": 12
+    },
+    {
+      "process": "L",
+      "successor": "I",
+      "count": 12
+    },
+    {
+      "process": "H",
+      "successor": "L",
+      "count": 12
+    },
+    {
+      "process": "C",
+      "successor": "F",
+      "count": 12
+    },
+    {
+      "process": "A",
+      "successor": "B",
+      "count": 12
+    },
+    {
+      "process": "I",
+      "successor": "L",
+      "count": 12
+    },
+    {
+      "process": "G",
+      "successor": "K",
+      "count": 12
+    },
+    {
+      "process": "C",
+      "successor": "O",
+      "count": 12
+    },
+    {
+      "process": "N",
+      "successor": "F",
+      "count": 12
+    },
+    {
+      "process": "E",
+      "successor": "F",
+      "count": 12
+    },
+    {
+      "process": "F",
+      "successor": "B",
+      "count": 12
+    }
+  ],
+  "top_cooccurring_pairs": [
+    {
+      "process_1": "A",
+      "process_2": "N",
+      "sessions_together": 30
+    },
+    {
+      "process_1": "C",
+      "process_2": "M",
+      "sessions_together": 29
+    },
+    {
+      "process_1": "F",
+      "process_2": "M",
+      "sessions_together": 29
+    },
+    {
+      "process_1": "F",
+      "process_2": "N",
+      "sessions_together": 29
+    },
+    {
+      "process_1": "C",
+      "process_2": "N",
+      "sessions_together": 29
+    },
+    {
+      "process_1": "H",
+      "process_2": "I",
+      "sessions_together": 29
+    },
+    {
+      "process_1": "A",
+      "process_2": "C",
+      "sessions_together": 28
+    },
+    {
+      "process_1": "A",
+      "process_2": "M",
+      "sessions_together": 28
+    },
+    {
+      "process_1": "C",
+      "process_2": "H",
+      "sessions_together": 28
+    },
+    {
+      "process_1": "G",
+      "process_2": "H",
+      "sessions_together": 28
+    },
+    {
+      "process_1": "A",
+      "process_2": "F",
+      "sessions_together": 28
+    },
+    {
+      "process_1": "I",
+      "process_2": "L",
+      "sessions_together": 28
+    },
+    {
+      "process_1": "G",
+      "process_2": "J",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "H",
+      "process_2": "J",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "M",
+      "process_2": "O",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "D",
+      "process_2": "E",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "D",
+      "process_2": "N",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "F",
+      "process_2": "I",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "G",
+      "process_2": "I",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "M",
+      "process_2": "N",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "C",
+      "process_2": "D",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "H",
+      "process_2": "N",
+      "sessions_together": 27
+    },
+    {
+      "process_1": "B",
+      "process_2": "C",
+      "sessions_together": 26
+    },
+    {
+      "process_1": "C",
+      "process_2": "O",
+      "sessions_together": 26
+    },
+    {
+      "process_1": "E",
+      "process_2": "M",
+      "sessions_together": 26
+    },
+    {
+      "process_1": "G",
+      "process_2": "M",
+      "sessions_together": 26
+    },
+    {
+      "process_1": "A",
+      "process_2": "D",
+      "sessions_together": 26
+    },
+    {
+      "process_1": "E",
+      "process_2": "F",
+      "sessions_together": 26
+    },
+    {
+      "process_1": "I",
+      "process_2": "N",
+      "sessions_together": 26
+    },
+    {
+      "process_1": "A",
+      "process_2": "E",
+      "sessions_together": 25
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+======================================================================
+DAY 1 - DATASET INVENTORY REPORT
+======================================================================
+
+Dataset root       : C:\VSC\iambyourside\Dataset A\dataset_a
+Sessions           : 63
+Sessions with GT   : 63
+Sessions without GT: 0
+Total raw events   : 162768
+Total GT events    : 10609
+Total screenshots : 34580
+
+----------------------------------------------------------------------
+OVERALL RAW EVENT TYPES
+----------------------------------------------------------------------
+app_switch                               50588
+keystroke                                38717
+screenshot_smart                         34580
+shortcut                                 13668
+mouse_click                               6177
+browser_click                             5365
+clipboard_change                          5198
+mouse_scroll                              3180
+browser_form_input                        1805
+browser_navigation                        1725
+window_title_change                        451
+window_state_change                        232
+browser_error                              200
+extension_disconnected                     172
+browser_alert                              137
+text_input_complete                        118
+browser_tab_event                          103
+session_start                               63
+session_end                                 61
+extension_connected                         54
+upload_started                              53
+upload_completed                            46
+dialog_opened                               28
+dialog_closed                               28
+mouse_double_click                          10
+upload_failed                                5
+mouse_drag_drop                              4
+
+----------------------------------------------------------------------
+OVERALL GT EVENT TYPES
+----------------------------------------------------------------------
+clipboard_paste                           3010
+task_started                              2009
+process_started                           1819
+clipboard_copy                            1766
+process_switched_out                      1590
+process_resumed                            190
+process_suspended                           99
+run_config                                  63
+session_ended                               63
+
+----------------------------------------------------------------------
+OVERALL GT PROCESS CODES
+----------------------------------------------------------------------
+F                                          169
+C                                          161
+A                                          159
+M                                          155
+H                                          147
+G                                          144
+L                                          137
+N                                          129
+K                                          127
+B                                          126
+I                                          117
+D                                          114
+E                                          111
+O                                          111
+J                                          102
+
+----------------------------------------------------------------------
+OVERALL GT PROCESS NAMES
+----------------------------------------------------------------------
+請求書承認                                      169
+育児・産休申請確認                                  161
+住民税通知確認                                    159
+仕入先連絡                                      155
+銀行勘定照合                                     147
+経費精算承認                                     144
+在庫調整                                       137
+出荷追跡                                       129
+受注処理                                       127
+給与備考・控除整備                                  126
+予算差異分析                                     117
+社保・年金補正対応                                  114
+入社照合・手当確認                                  111
+返品処理                                       111
+支払処理                                       102
+
+======================================================================
+SESSION SUMMARY
+======================================================================
+
+Session: ses_20260630-121953-LAPTOP-R36BQBTE
+  chunks        : 4
+  raw JSONL     : 2
+  raw events    : 2348
+  screenshots   : 466
+  GT exists     : True
+  GT events     : 175
+  duration (s)  : None
+
+Session: ses_20260630-124826-CHAITANYA0BCF
+  chunks        : 4
+  raw JSONL     : 2
+  raw events    : 3163
+  screenshots   : 626
+  GT exists     : True
+  GT events     : 176
+  duration (s)  : None
+
+Session: ses_20260630-125757-LAPTOP-R36BQBTE
+  chunks        : 4
+  raw JSONL     : 2
+  raw events    : 1799
+  screenshots   : 355
+  GT exists     : True
+  GT events     : 132
+  duration (s)  : None
+
+Session: ses_20260630-131729-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2198
+  screenshots   : 464
+  GT exists     : True
+  GT events     : 136
+  duration (s)  : None
+
+Session: ses_20260630-132737-LAPTOP-R36BQBTE
+  chunks        : 4
+  raw JSONL     : 2
+  raw events    : 2025
+  screenshots   : 398
+  GT exists     : True
+  GT events     : 148
+  duration (s)  : None
+
+Session: ses_20260630-135201-LAPTOP-R36BQBTE
+  chunks        : 4
+  raw JSONL     : 2
+  raw events    : 2020
+  screenshots   : 406
+  GT exists     : True
+  GT events     : 144
+  duration (s)  : None
+
+Session: ses_20260630-135451-CHAITANYA0BCF
+  chunks        : 3
+  raw JSONL     : 2
+  raw events    : 3099
+  screenshots   : 634
+  GT exists     : True
+  GT events     : 186
+  duration (s)  : None
+
+Session: ses_20260630-145433-JAYESH
+  chunks        : 3
+  raw JSONL     : 2
+  raw events    : 3379
+  screenshots   : 724
+  GT exists     : True
+  GT events     : 202
+  duration (s)  : None
+
+Session: ses_20260630-163424-SIDDHIGUPTAB00B
+  chunks        : 3
+  raw JSONL     : 2
+  raw events    : 2483
+  screenshots   : 534
+  GT exists     : True
+  GT events     : 169
+  duration (s)  : None
+
+Session: ses_20260630-164418-MSI
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2848
+  screenshots   : 602
+  GT exists     : True
+  GT events     : 173
+  duration (s)  : None
+
+Session: ses_20260701-005920-yuvraj
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2641
+  screenshots   : 592
+  GT exists     : True
+  GT events     : 188
+  duration (s)  : None
+
+Session: ses_20260701-014804-yuvraj
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2750
+  screenshots   : 587
+  GT exists     : True
+  GT events     : 179
+  duration (s)  : None
+
+Session: ses_20260701-022828-yuvraj
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2335
+  screenshots   : 475
+  GT exists     : True
+  GT events     : 150
+  duration (s)  : None
+
+Session: ses_20260701-030836-yuvraj
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2106
+  screenshots   : 441
+  GT exists     : True
+  GT events     : 138
+  duration (s)  : None
+
+Session: ses_20260701-032825-CHAITANYA0BCF
+  chunks        : 3
+  raw JSONL     : 2
+  raw events    : 2560
+  screenshots   : 541
+  GT exists     : True
+  GT events     : 155
+  duration (s)  : None
+
+Session: ses_20260701-035622-SIDDHIGUPTAB00B
+  chunks        : 3
+  raw JSONL     : 2
+  raw events    : 2964
+  screenshots   : 676
+  GT exists     : True
+  GT events     : 192
+  duration (s)  : None
+
+Session: ses_20260701-043922-SIDDHIGUPTAB00B
+  chunks        : 3
+  raw JSONL     : 2
+  raw events    : 3115
+  screenshots   : 684
+  GT exists     : True
+  GT events     : 215
+  duration (s)  : None
+
+Session: ses_20260701-051820-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2195
+  screenshots   : 461
+  GT exists     : True
+  GT events     : 133
+  duration (s)  : None
+
+Session: ses_20260701-051850-LAPTOP-R36BQBTE
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2500
+  screenshots   : 503
+  GT exists     : True
+  GT events     : 182
+  duration (s)  : None
+
+Session: ses_20260701-053005-MSI
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2682
+  screenshots   : 573
+  GT exists     : True
+  GT events     : 170
+  duration (s)  : None
+
+Session: ses_20260701-053720-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 3009
+  screenshots   : 628
+  GT exists     : True
+  GT events     : 182
+  duration (s)  : None
+
+Session: ses_20260701-054901-LAPTOP-R36BQBTE
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2417
+  screenshots   : 500
+  GT exists     : True
+  GT events     : 152
+  duration (s)  : None
+
+Session: ses_20260701-054930-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2626
+  screenshots   : 498
+  GT exists     : True
+  GT events     : 152
+  duration (s)  : None
+
+Session: ses_20260701-055037-Marcos
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2487
+  screenshots   : 544
+  GT exists     : True
+  GT events     : 167
+  duration (s)  : None
+
+Session: ses_20260701-055918-MSI
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2883
+  screenshots   : 611
+  GT exists     : True
+  GT events     : 173
+  duration (s)  : None
+
+Session: ses_20260701-062250-Marcos
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2643
+  screenshots   : 588
+  GT exists     : True
+  GT events     : 179
+  duration (s)  : None
+
+Session: ses_20260701-062732-MSI
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2640
+  screenshots   : 577
+  GT exists     : True
+  GT events     : 170
+  duration (s)  : None
+
+Session: ses_20260701-063106-LAPTOP-R36BQBTE
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2106
+  screenshots   : 408
+  GT exists     : True
+  GT events     : 143
+  duration (s)  : None
+
+Session: ses_20260701-065151-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 3312
+  screenshots   : 666
+  GT exists     : True
+  GT events     : 195
+  duration (s)  : None
+
+Session: ses_20260701-070320-JAYESH
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 3773
+  screenshots   : 782
+  GT exists     : True
+  GT events     : 222
+  duration (s)  : None
+
+Session: ses_20260701-071849-Marcos
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2360
+  screenshots   : 518
+  GT exists     : True
+  GT events     : 157
+  duration (s)  : None
+
+Session: ses_20260701-072319-MSI
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2739
+  screenshots   : 596
+  GT exists     : True
+  GT events     : 171
+  duration (s)  : None
+
+Session: ses_20260701-072435-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2902
+  screenshots   : 616
+  GT exists     : True
+  GT events     : 187
+  duration (s)  : None
+
+Session: ses_20260701-074424-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2564
+  screenshots   : 551
+  GT exists     : True
+  GT events     : 166
+  duration (s)  : None
+
+Session: ses_20260701-075548-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 1795
+  screenshots   : 379
+  GT exists     : True
+  GT events     : 120
+  duration (s)  : None
+
+Session: ses_20260701-075604-LAPTOP-0IM1OHQH
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2343
+  screenshots   : 515
+  GT exists     : True
+  GT events     : 165
+  duration (s)  : None
+
+Session: ses_20260701-081120-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2336
+  screenshots   : 523
+  GT exists     : True
+  GT events     : 162
+  duration (s)  : None
+
+Session: ses_20260701-081732-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2169
+  screenshots   : 460
+  GT exists     : True
+  GT events     : 135
+  duration (s)  : None
+
+Session: ses_20260701-083656-LAPTOP-0IM1OHQH
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2557
+  screenshots   : 569
+  GT exists     : True
+  GT events     : 181
+  duration (s)  : None
+
+Session: ses_20260701-090300-Marcos
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2773
+  screenshots   : 569
+  GT exists     : True
+  GT events     : 157
+  duration (s)  : None
+
+Session: ses_20260701-092027-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2627
+  screenshots   : 584
+  GT exists     : True
+  GT events     : 173
+  duration (s)  : None
+
+Session: ses_20260701-093900-Marcos
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2229
+  screenshots   : 488
+  GT exists     : True
+  GT events     : 156
+  duration (s)  : None
+
+Session: ses_20260701-095337-LAPTOP-0IM1OHQH
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2494
+  screenshots   : 561
+  GT exists     : True
+  GT events     : 166
+  duration (s)  : None
+
+Session: ses_20260701-100550-Marcos
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2890
+  screenshots   : 611
+  GT exists     : True
+  GT events     : 185
+  duration (s)  : None
+
+Session: ses_20260701-103521-LAPTOP-0IM1OHQH
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2606
+  screenshots   : 571
+  GT exists     : True
+  GT events     : 172
+  duration (s)  : None
+
+Session: ses_20260701-103853-Marcos
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2623
+  screenshots   : 561
+  GT exists     : True
+  GT events     : 176
+  duration (s)  : None
+
+Session: ses_20260701-110548-LAPTOP-0IM1OHQH
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2226
+  screenshots   : 488
+  GT exists     : True
+  GT events     : 143
+  duration (s)  : None
+
+Session: ses_20260701-110917-Marcos
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2441
+  screenshots   : 524
+  GT exists     : True
+  GT events     : 165
+  duration (s)  : None
+
+Session: ses_20260701-115141-SIDDHIGUPTAB00B
+  chunks        : 3
+  raw JSONL     : 3
+  raw events    : 3557
+  screenshots   : 756
+  GT exists     : True
+  GT events     : 240
+  duration (s)  : None
+
+Session: ses_20260701-120612-Marcos
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 2341
+  screenshots   : 519
+  GT exists     : True
+  GT events     : 158
+  duration (s)  : None
+
+Session: ses_20260701-120828-LAPTOP-0IM1OHQH
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2346
+  screenshots   : 545
+  GT exists     : True
+  GT events     : 166
+  duration (s)  : None
+
+Session: ses_20260701-123729-Marcos
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2577
+  screenshots   : 560
+  GT exists     : True
+  GT events     : 177
+  duration (s)  : None
+
+Session: ses_20260701-124033-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2704
+  screenshots   : 561
+  GT exists     : True
+  GT events     : 162
+  duration (s)  : None
+
+Session: ses_20260701-124550-LAPTOP-0IM1OHQH
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2550
+  screenshots   : 574
+  GT exists     : True
+  GT events     : 174
+  duration (s)  : None
+
+Session: ses_20260701-124636-MSI
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2827
+  screenshots   : 613
+  GT exists     : True
+  GT events     : 174
+  duration (s)  : None
+
+Session: ses_20260701-131015-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2798
+  screenshots   : 583
+  GT exists     : True
+  GT events     : 175
+  duration (s)  : None
+
+Session: ses_20260701-131247-MSI
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2929
+  screenshots   : 631
+  GT exists     : True
+  GT events     : 174
+  duration (s)  : None
+
+Session: ses_20260701-134215-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2892
+  screenshots   : 611
+  GT exists     : True
+  GT events     : 188
+  duration (s)  : None
+
+Session: ses_20260701-141430-SIDDHIGUPTAB00B
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 3200
+  screenshots   : 654
+  GT exists     : True
+  GT events     : 187
+  duration (s)  : None
+
+Session: ses_20260701-145907-MSI
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2987
+  screenshots   : 633
+  GT exists     : True
+  GT events     : 171
+  duration (s)  : None
+
+Session: ses_20260701-152030-CHAITANYA0BCF
+  chunks        : 1
+  raw JSONL     : 1
+  raw events    : 945
+  screenshots   : 199
+  GT exists     : True
+  GT events     : 166
+  duration (s)  : None
+
+Session: ses_20260701-155031-CHAITANYA0BCF
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 2404
+  screenshots   : 487
+  GT exists     : True
+  GT events     : 140
+  duration (s)  : None
+
+Session: ses_20260701-172430-yuvraj
+  chunks        : 2
+  raw JSONL     : 2
+  raw events    : 1931
+  screenshots   : 426
+  GT exists     : True
+  GT events     : 142
+  duration (s)  : None
+

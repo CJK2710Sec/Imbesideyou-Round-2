@@ -1,0 +1,27 @@
+{
+  "dataset": "Dataset A",
+  "sessions": 63,
+  "gt_execution_windows": 3409,
+  "windows_with_raw_events": 1962,
+  "windows_without_raw_events": 1447,
+  "window_raw_event_coverage": 0.5755,
+  "total_mapped_raw_events": 160035,
+  "average_raw_events_per_window": 46.945,
+  "raw_events_by_process": {
+    "H": 12100,
+    "C": 13009,
+    "B": 8822,
+    "A": 12879,
+    "M": 13163,
+    "J": 8255,
+    "G": 9283,
+    "E": 9226,
+    "O": 9242,
+    "K": 10543,
+    "F": 14179,
+    "N": 10289,
+    "L": 9566,
+    "I": 11283,
+    "D": 8196
+  }
+}
