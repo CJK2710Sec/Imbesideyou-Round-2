@@ -1,0 +1,64 @@
+{
+  "phase": "Day 2 Phase 5B",
+  "raw_events": 162768,
+  "gt_boundaries": 1590,
+  "hard_negative_rows": 6232,
+  "hard_negative_summary": [
+    {
+      "window_sec": 0.5,
+      "hard_negative_count": 1570,
+      "mean_score": 0.2682782926026598,
+      "median_score": 1.8780337068234173e-07,
+      "p95_score": 0.8499470902295153,
+      "p99_score": 0.9978824290932476,
+      "max_score": 0.9978824290932476,
+      "false_positive_rate_at_0_5": 0.310828025477707,
+      "false_positive_rate_at_0_7": 0.29554140127388534,
+      "false_positive_rate_at_0_9": 0.026114649681528664
+    },
+    {
+      "window_sec": 1.0,
+      "hard_negative_count": 1568,
+      "mean_score": 0.3423555109751808,
+      "median_score": 0.1331807210601895,
+      "p95_score": 0.9936192013948266,
+      "p99_score": 0.9978824290932476,
+      "max_score": 0.9978824290932476,
+      "false_positive_rate_at_0_5": 0.31887755102040816,
+      "false_positive_rate_at_0_7": 0.24107142857142858,
+      "false_positive_rate_at_0_9": 0.06441326530612244
+    },
+    {
+      "window_sec": 2.0,
+      "hard_negative_count": 1564,
+      "mean_score": 0.38280414160628157,
+      "median_score": 0.2930764377736316,
+      "p95_score": 0.8089390524895723,
+      "p99_score": 0.9934290037248568,
+      "max_score": 0.9978824290932476,
+      "false_positive_rate_at_0_5": 0.24744245524296676,
+      "false_positive_rate_at_0_7": 0.0748081841432225,
+      "false_positive_rate_at_0_9": 0.017263427109974423
+    },
+    {
+      "window_sec": 3.0,
+      "hard_negative_count": 1530,
+      "mean_score": 0.23627897708057624,
+      "median_score": 0.16264958803402907,
+      "p95_score": 0.6556137655599124,
+      "p99_score": 0.8510627955473488,
+      "max_score": 0.9978824290932476,
+      "false_positive_rate_at_0_5": 0.13071895424836602,
+      "false_positive_rate_at_0_7": 0.0392156862745098,
+      "false_positive_rate_at_0_9": 0.00849673202614379
+    }
+  ],
+  "localization": {
+    "evaluated_boundaries": 1570,
+    "mean_error_sec": 1.224391719745223,
+    "median_error_sec": 0.773,
+    "within_0_5s": 0.4770700636942675,
+    "within_1s": 0.6331210191082802,
+    "within_2s": 0.743312101910828
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "candidate_boundaries": 1590,
+  "matched_boundaries": 1590,
+  "unmatched_boundaries": 0,
+  "invalid_timestamps": 0,
+  "total_raw_events": 162768,
+  "total_events_files": 117,
+  "windows_tested": [
+    0.5,
+    1.0,
+    2.0,
+    3.0,
+    5.0,
+    10.0
+  ],
+  "signal_fields": [
+    "event_type",
+    "layer",
+    "source",
+    "app_name",
+    "process_name",
+    "window_title",
+    "browser_domain",
+    "browser_path",
+    "browser_element"
+  ]
+}

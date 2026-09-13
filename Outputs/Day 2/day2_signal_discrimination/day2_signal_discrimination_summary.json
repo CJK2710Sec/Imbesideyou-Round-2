@@ -1,0 +1,736 @@
+{
+  "input_rows": 19080,
+  "sessions": 63,
+  "windows_sec": [
+    0.5,
+    1.0,
+    2.0,
+    3.0,
+    5.0,
+    10.0
+  ],
+  "top_signals": {
+    "0.5": [
+      {
+        "feature": "event_type_changed",
+        "global_smd": -3.5092165280538046,
+        "abs_global_smd": 3.5092165280538046,
+        "directional_consistency": 0.9206349206349206,
+        "combined_score": 3.230707279795566
+      },
+      {
+        "feature": "layer_changed",
+        "global_smd": -2.523633810834832,
+        "abs_global_smd": 2.523633810834832,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 2.483576131297771
+      },
+      {
+        "feature": "event_type_jaccard",
+        "global_smd": 2.353754351318984,
+        "abs_global_smd": 2.353754351318984,
+        "directional_consistency": 1.0,
+        "combined_score": 2.353754351318984
+      },
+      {
+        "feature": "layer_jaccard",
+        "global_smd": 1.8842510924828988,
+        "abs_global_smd": 1.8842510924828988,
+        "directional_consistency": 1.0,
+        "combined_score": 1.8842510924828988
+      },
+      {
+        "feature": "event_type_new_count",
+        "global_smd": -1.4513617681040272,
+        "abs_global_smd": 1.4513617681040272,
+        "directional_consistency": 1.0,
+        "combined_score": 1.4513617681040272
+      },
+      {
+        "feature": "layer_new_count",
+        "global_smd": -1.37684967183293,
+        "abs_global_smd": 1.37684967183293,
+        "directional_consistency": 1.0,
+        "combined_score": 1.37684967183293
+      },
+      {
+        "feature": "event_type_disappeared_count",
+        "global_smd": -1.2037901903179977,
+        "abs_global_smd": 1.2037901903179977,
+        "directional_consistency": 1.0,
+        "combined_score": 1.2037901903179977
+      },
+      {
+        "feature": "post_event_type_entropy",
+        "global_smd": -1.1354505672182893,
+        "abs_global_smd": 1.1354505672182893,
+        "directional_consistency": 1.0,
+        "combined_score": 1.1354505672182893
+      },
+      {
+        "feature": "layer_disappeared_count",
+        "global_smd": -0.8360246030984596,
+        "abs_global_smd": 0.8360246030984596,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.8227543713032459
+      },
+      {
+        "feature": "pre_event_count",
+        "global_smd": -0.7233011914862801,
+        "abs_global_smd": 0.7233011914862801,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.7118202201928471
+      }
+    ],
+    "1.0": [
+      {
+        "feature": "event_type_changed",
+        "global_smd": -2.013106496036613,
+        "abs_global_smd": 2.013106496036613,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 1.9811524246709526
+      },
+      {
+        "feature": "event_type_disappeared_count",
+        "global_smd": -1.3368190942434217,
+        "abs_global_smd": 1.3368190942434217,
+        "directional_consistency": 1.0,
+        "combined_score": 1.3368190942434217
+      },
+      {
+        "feature": "post_event_type_entropy",
+        "global_smd": -1.2516154071147554,
+        "abs_global_smd": 1.2516154071147554,
+        "directional_consistency": 1.0,
+        "combined_score": 1.2516154071147554
+      },
+      {
+        "feature": "event_type_jaccard",
+        "global_smd": 1.0887936389375765,
+        "abs_global_smd": 1.0887936389375765,
+        "directional_consistency": 1.0,
+        "combined_score": 1.0887936389375765
+      },
+      {
+        "feature": "pre_event_count",
+        "global_smd": -0.9958702013098649,
+        "abs_global_smd": 0.9958702013098649,
+        "directional_consistency": 1.0,
+        "combined_score": 0.9958702013098649
+      },
+      {
+        "feature": "pre_event_rate",
+        "global_smd": -0.9958702013098649,
+        "abs_global_smd": 0.9958702013098649,
+        "directional_consistency": 1.0,
+        "combined_score": 0.9958702013098649
+      },
+      {
+        "feature": "event_type_new_count",
+        "global_smd": -0.8439419175222876,
+        "abs_global_smd": 0.8439419175222876,
+        "directional_consistency": 1.0,
+        "combined_score": 0.8439419175222876
+      },
+      {
+        "feature": "layer_changed",
+        "global_smd": -0.8178113467344565,
+        "abs_global_smd": 0.8178113467344565,
+        "directional_consistency": 1.0,
+        "combined_score": 0.8178113467344565
+      },
+      {
+        "feature": "layer_disappeared_count",
+        "global_smd": -0.7934969393461702,
+        "abs_global_smd": 0.7934969393461702,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.7809017498327389
+      },
+      {
+        "feature": "pre_event_type_entropy",
+        "global_smd": -0.627838339520081,
+        "abs_global_smd": 0.627838339520081,
+        "directional_consistency": 0.9682539682539683,
+        "combined_score": 0.6079069636623006
+      }
+    ],
+    "2.0": [
+      {
+        "feature": "event_type_disappeared_count",
+        "global_smd": -1.4575056952440122,
+        "abs_global_smd": 1.4575056952440122,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 1.434370684208393
+      },
+      {
+        "feature": "pre_event_count",
+        "global_smd": -1.2741940693531115,
+        "abs_global_smd": 1.2741940693531115,
+        "directional_consistency": 1.0,
+        "combined_score": 1.2741940693531115
+      },
+      {
+        "feature": "pre_event_rate",
+        "global_smd": -1.2741940693531115,
+        "abs_global_smd": 1.2741940693531115,
+        "directional_consistency": 1.0,
+        "combined_score": 1.2741940693531115
+      },
+      {
+        "feature": "post_event_type_entropy",
+        "global_smd": -1.187407963901716,
+        "abs_global_smd": 1.187407963901716,
+        "directional_consistency": 1.0,
+        "combined_score": 1.187407963901716
+      },
+      {
+        "feature": "pre_event_type_entropy",
+        "global_smd": -0.9607334784737984,
+        "abs_global_smd": 0.9607334784737984,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.945483740720246
+      },
+      {
+        "feature": "event_type_changed",
+        "global_smd": -0.7406539945650448,
+        "abs_global_smd": 0.7406539945650448,
+        "directional_consistency": 0.9523809523809523,
+        "combined_score": 0.705384756728614
+      },
+      {
+        "feature": "layer_disappeared_count",
+        "global_smd": -0.6316164778061966,
+        "abs_global_smd": 0.6316164778061966,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.6215908194283204
+      },
+      {
+        "feature": "layer_new_count",
+        "global_smd": 0.6469657804709212,
+        "abs_global_smd": 0.6469657804709212,
+        "directional_consistency": 0.8571428571428571,
+        "combined_score": 0.5545420975465039
+      },
+      {
+        "feature": "event_type_new_count",
+        "global_smd": -0.5627879220887264,
+        "abs_global_smd": 0.5627879220887264,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.5538547804682704
+      },
+      {
+        "feature": "source_jaccard",
+        "global_smd": -0.5773409264149781,
+        "abs_global_smd": 0.5773409264149781,
+        "directional_consistency": 0.873015873015873,
+        "combined_score": 0.5040277929019651
+      }
+    ],
+    "3.0": [
+      {
+        "feature": "post_event_type_entropy",
+        "global_smd": -1.4438488424081062,
+        "abs_global_smd": 1.4438488424081062,
+        "directional_consistency": 1.0,
+        "combined_score": 1.4438488424081062
+      },
+      {
+        "feature": "pre_event_count",
+        "global_smd": -1.148709650277627,
+        "abs_global_smd": 1.148709650277627,
+        "directional_consistency": 1.0,
+        "combined_score": 1.148709650277627
+      },
+      {
+        "feature": "pre_event_rate",
+        "global_smd": -1.148709650277627,
+        "abs_global_smd": 1.148709650277627,
+        "directional_consistency": 1.0,
+        "combined_score": 1.148709650277627
+      },
+      {
+        "feature": "event_type_new_count",
+        "global_smd": -0.6471909623015379,
+        "abs_global_smd": 0.6471909623015379,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.6369180898840532
+      },
+      {
+        "feature": "pre_event_type_entropy",
+        "global_smd": -0.6309298290095755,
+        "abs_global_smd": 0.6309298290095755,
+        "directional_consistency": 0.9365079365079365,
+        "combined_score": 0.5908707922470627
+      },
+      {
+        "feature": "window_title_changed",
+        "global_smd": -0.5432432387498713,
+        "abs_global_smd": 0.5432432387498713,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.534620330198286
+      },
+      {
+        "feature": "window_title_disappeared_count",
+        "global_smd": -0.5467826938482289,
+        "abs_global_smd": 0.5467826938482289,
+        "directional_consistency": 0.9365079365079365,
+        "combined_score": 0.5120663323340556
+      },
+      {
+        "feature": "event_type_disappeared_count",
+        "global_smd": -0.47812126964286095,
+        "abs_global_smd": 0.47812126964286095,
+        "directional_consistency": 0.9523809523809523,
+        "combined_score": 0.45535359013605803
+      },
+      {
+        "feature": "event_type_changed",
+        "global_smd": -0.4802963703331743,
+        "abs_global_smd": 0.4802963703331743,
+        "directional_consistency": 0.9047619047619048,
+        "combined_score": 0.43455385887287196
+      },
+      {
+        "feature": "layer_jaccard",
+        "global_smd": -0.42957666928881544,
+        "abs_global_smd": 0.42957666928881544,
+        "directional_consistency": 0.8571428571428571,
+        "combined_score": 0.36820857367612747
+      }
+    ],
+    "5.0": [
+      {
+        "feature": "post_event_type_entropy",
+        "global_smd": -1.0233111383011413,
+        "abs_global_smd": 1.0233111383011413,
+        "directional_consistency": 1.0,
+        "combined_score": 1.0233111383011413
+      },
+      {
+        "feature": "pre_event_count",
+        "global_smd": -0.9435918270455798,
+        "abs_global_smd": 0.9435918270455798,
+        "directional_consistency": 1.0,
+        "combined_score": 0.9435918270455798
+      },
+      {
+        "feature": "pre_event_rate",
+        "global_smd": -0.9435918270455798,
+        "abs_global_smd": 0.9435918270455798,
+        "directional_consistency": 1.0,
+        "combined_score": 0.9435918270455798
+      },
+      {
+        "feature": "window_title_disappeared_count",
+        "global_smd": -0.7345315810920272,
+        "abs_global_smd": 0.7345315810920272,
+        "directional_consistency": 0.9841269841269841,
+        "combined_score": 0.722872349646122
+      },
+      {
+        "feature": "app_name_changed",
+        "global_smd": -0.7049870022991107,
+        "abs_global_smd": 0.7049870022991107,
+        "directional_consistency": 0.9682539682539683,
+        "combined_score": 0.6826064625435834
+      },
+      {
+        "feature": "process_name_changed",
+        "global_smd": -0.7049870022991107,
+        "abs_global_smd": 0.7049870022991107,
+        "directional_consistency": 0.9682539682539683,
+        "combined_score": 0.6826064625435834
+      },
+      {
+        "feature": "event_type_new_count",
+        "global_smd": -0.6507369773293659,
+        "abs_global_smd": 0.6507369773293659,
+        "directional_consistency": 0.9682539682539683,
+        "combined_score": 0.6300786605887511
+      },
+      {
+        "feature": "layer_changed",
+        "global_smd": -0.7120990974625494,
+        "abs_global_smd": 0.7120990974625494,
+        "directional_consistency": 0.873015873015873,
+        "combined_score": 0.6216738152450828
+      },
+      {
+        "feature": "app_name_new_count",
+        "global_smd": -0.5873954939962586,
+        "abs_global_smd": 0.5873954939962586,
+        "directional_consistency": 0.9365079365079365,
+        "combined_score": 0.5501005419964962
+      },
+      {
+        "feature": "process_name_new_count",
+        "global_smd": -0.5873954939962586,
+        "abs_global_smd": 0.5873954939962586,
+        "directional_consistency": 0.9365079365079365,
+        "combined_score": 0.5501005419964962
+      }
+    ],
+    "10.0": [
+      {
+        "feature": "layer_changed",
+        "global_smd": -1.0986242128174972,
+        "abs_global_smd": 1.0986242128174972,
+        "directional_consistency": 0.9365079365079365,
+        "combined_score": 1.0288702945433703
+      },
+      {
+        "feature": "window_title_new_count",
+        "global_smd": 0.7259640681806302,
+        "abs_global_smd": 0.7259640681806302,
+        "directional_consistency": 0.9523809523809523,
+        "combined_score": 0.6913943506482192
+      },
+      {
+        "feature": "layer_jaccard",
+        "global_smd": 0.7538011432654459,
+        "abs_global_smd": 0.7538011432654459,
+        "directional_consistency": 0.9047619047619048,
+        "combined_score": 0.6820105581925463
+      },
+      {
+        "feature": "layer_disappeared_count",
+        "global_smd": -0.7153825445802554,
+        "abs_global_smd": 0.7153825445802554,
+        "directional_consistency": 0.9206349206349206,
+        "combined_score": 0.658606152153251
+      },
+      {
+        "feature": "post_event_count",
+        "global_smd": 0.6011914637285813,
+        "abs_global_smd": 0.6011914637285813,
+        "directional_consistency": 0.9523809523809523,
+        "combined_score": 0.572563298789125
+      },
+      {
+        "feature": "post_event_rate",
+        "global_smd": 0.6011914637285809,
+        "abs_global_smd": 0.6011914637285809,
+        "directional_consistency": 0.9523809523809523,
+        "combined_score": 0.5725632987891246
+      },
+      {
+        "feature": "window_title_jaccard",
+        "global_smd": -0.6070457455539886,
+        "abs_global_smd": 0.6070457455539886,
+        "directional_consistency": 0.9365079365079365,
+        "combined_score": 0.5685031585346877
+      },
+      {
+        "feature": "window_title_changed",
+        "global_smd": 0.5906746966999488,
+        "abs_global_smd": 0.5906746966999488,
+        "directional_consistency": 0.9206349206349206,
+        "combined_score": 0.5437957525174131
+      },
+      {
+        "feature": "event_type_jaccard",
+        "global_smd": 0.474978699638137,
+        "abs_global_smd": 0.474978699638137,
+        "directional_consistency": 0.9365079365079365,
+        "combined_score": 0.4448213218833346
+      },
+      {
+        "feature": "app_name_disappeared_count",
+        "global_smd": 0.4110341527591513,
+        "abs_global_smd": 0.4110341527591513,
+        "directional_consistency": 0.9523809523809523,
+        "combined_score": 0.39146109786585837
+      }
+    ]
+  },
+  "constant_features": [
+    {
+      "window_sec": 0.5,
+      "feature": "browser_domain_jaccard"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_domain_new_count"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_domain_disappeared_count"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_domain_changed"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_path_jaccard"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_path_new_count"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_path_disappeared_count"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_path_changed"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_element_jaccard"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_element_new_count"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_element_disappeared_count"
+    },
+    {
+      "window_sec": 0.5,
+      "feature": "browser_element_changed"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_domain_jaccard"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_domain_new_count"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_domain_disappeared_count"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_domain_changed"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_path_jaccard"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_path_new_count"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_path_disappeared_count"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_path_changed"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_element_jaccard"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_element_new_count"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_element_disappeared_count"
+    },
+    {
+      "window_sec": 1.0,
+      "feature": "browser_element_changed"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_domain_jaccard"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_domain_new_count"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_domain_disappeared_count"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_domain_changed"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_path_jaccard"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_path_new_count"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_path_disappeared_count"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_path_changed"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_element_jaccard"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_element_new_count"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_element_disappeared_count"
+    },
+    {
+      "window_sec": 2.0,
+      "feature": "browser_element_changed"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_domain_jaccard"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_domain_new_count"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_domain_disappeared_count"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_domain_changed"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_path_jaccard"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_path_new_count"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_path_disappeared_count"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_path_changed"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_element_jaccard"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_element_new_count"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_element_disappeared_count"
+    },
+    {
+      "window_sec": 3.0,
+      "feature": "browser_element_changed"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_domain_jaccard"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_domain_new_count"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_domain_disappeared_count"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_domain_changed"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_path_jaccard"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_path_new_count"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_path_disappeared_count"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_path_changed"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_element_jaccard"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_element_new_count"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_element_disappeared_count"
+    },
+    {
+      "window_sec": 5.0,
+      "feature": "browser_element_changed"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_domain_jaccard"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_domain_new_count"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_domain_disappeared_count"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_domain_changed"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_path_jaccard"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_path_new_count"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_path_disappeared_count"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_path_changed"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_element_jaccard"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_element_new_count"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_element_disappeared_count"
+    },
+    {
+      "window_sec": 10.0,
+      "feature": "browser_element_changed"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "phase": "Day 2 Phase 5A",
+  "description": "Session-grouped logistic regression boundary detector using correctly filtered temporal windows.",
+  "rows": 19080,
+  "sessions": 63,
+  "windows": [
+    0.5,
+    1,
+    2,
+    3,
+    5,
+    10
+  ],
+  "best_configuration": {
+    "window_sec": 0.5,
+    "feature_set": "D_lean_full",
+    "n_features": 11,
+    "roc_auc_mean": 0.9940643214869599,
+    "roc_auc_std": 0.0016028645058341747,
+    "pr_auc_mean": 0.9935801632003383,
+    "pr_auc_std": 0.001955690292122885,
+    "precision_mean": 0.969515279848169,
+    "recall_mean": 0.9645391446654534,
+    "f1_mean": 0.9668467427700824,
+    "specificity_mean": 0.9694089226264222
+  }
+}

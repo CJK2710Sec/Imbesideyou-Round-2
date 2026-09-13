@@ -1,0 +1,20 @@
+{
+  "dataset_root": "Dataset A\\dataset_a",
+  "sessions_found": 63,
+  "sessions_analyzed": 63,
+  "total_gt_boundaries": 1590,
+  "gt_event_counts": {
+    "run_config": 63,
+    "process_started": 1819,
+    "task_started": 2009,
+    "clipboard_copy": 1766,
+    "clipboard_paste": 3010,
+    "process_switched_out": 1590,
+    "process_suspended": 99,
+    "process_resumed": 190,
+    "session_ended": 63
+  },
+  "total_gt_issues": 0,
+  "issue_counts": {},
+  "note": "process_switched_out events are treated as candidate boundary events for Day 2 analysis. This script does not assume they are the final segmentation boundaries."
+}

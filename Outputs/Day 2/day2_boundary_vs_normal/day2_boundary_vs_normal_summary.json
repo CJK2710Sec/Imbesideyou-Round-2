@@ -1,0 +1,79 @@
+{
+  "gt_boundaries": 1590,
+  "normal_examples": 1590,
+  "sessions": 63,
+  "raw_events": 162768,
+  "negative_distance_sec": 5.0,
+  "windows_sec": [
+    0.5,
+    1.0,
+    2.0,
+    3.0,
+    5.0,
+    10.0
+  ],
+  "best_window_by_absolute_smd": {
+    "post_event_rate": {
+      "window_sec": 10.0,
+      "smd": 0.6011914637285809
+    },
+    "event_rate_ratio": {
+      "window_sec": 0.5,
+      "smd": -0.41545168335809585
+    },
+    "app_name_changed": {
+      "window_sec": 5.0,
+      "smd": -0.7049870022991107
+    },
+    "process_name_changed": {
+      "window_sec": 5.0,
+      "smd": -0.7049870022991107
+    },
+    "window_title_changed": {
+      "window_sec": 0.5,
+      "smd": -0.6428023609220441
+    },
+    "event_type_changed": {
+      "window_sec": 0.5,
+      "smd": -3.5092165280538046
+    }
+  },
+  "logistic_regression": [
+    {
+      "window_sec": 0.5,
+      "mean_grouped_roc_auc": 0.9945644213914022,
+      "std_grouped_roc_auc": 0.0014604462453530966,
+      "sessions": 63
+    },
+    {
+      "window_sec": 1.0,
+      "mean_grouped_roc_auc": 0.9904124432748954,
+      "std_grouped_roc_auc": 0.0032576443581285586,
+      "sessions": 63
+    },
+    {
+      "window_sec": 2.0,
+      "mean_grouped_roc_auc": 0.9901575423333802,
+      "std_grouped_roc_auc": 0.008778866800004238,
+      "sessions": 63
+    },
+    {
+      "window_sec": 3.0,
+      "mean_grouped_roc_auc": 0.9756822448261318,
+      "std_grouped_roc_auc": 0.009070122099954215,
+      "sessions": 63
+    },
+    {
+      "window_sec": 5.0,
+      "mean_grouped_roc_auc": 0.9682433379324671,
+      "std_grouped_roc_auc": 0.01403641348085661,
+      "sessions": 63
+    },
+    {
+      "window_sec": 10.0,
+      "mean_grouped_roc_auc": 0.9220234492544179,
+      "std_grouped_roc_auc": 0.026570559818391876,
+      "sessions": 63
+    }
+  ]
+}
