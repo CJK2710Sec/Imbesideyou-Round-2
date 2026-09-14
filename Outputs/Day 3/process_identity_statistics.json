@@ -1,0 +1,278 @@
+{
+  "UNKNOWN_PROCESS": {
+    "events": 63,
+    "started": 0,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 0,
+    "variants": {},
+    "event_types": {
+      "run_config": 63
+    }
+  },
+  "H": {
+    "events": 859,
+    "started": 147,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 118,
+    "variants": {},
+    "event_types": {
+      "process_started": 147,
+      "task_started": 147,
+      "clipboard_copy": 147,
+      "clipboard_paste": 294,
+      "process_switched_out": 118,
+      "session_ended": 6
+    }
+  },
+  "C": {
+    "events": 782,
+    "started": 161,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 135,
+    "variants": {},
+    "event_types": {
+      "process_started": 161,
+      "task_started": 161,
+      "clipboard_copy": 161,
+      "clipboard_paste": 161,
+      "process_switched_out": 135,
+      "session_ended": 3
+    }
+  },
+  "B": {
+    "events": 640,
+    "started": 83,
+    "suspended": 26,
+    "resumed": 43,
+    "switched_out": 87,
+    "variants": {
+      "reg": 508,
+      "adj": 132
+    },
+    "event_types": {
+      "process_started": 83,
+      "task_started": 126,
+      "clipboard_copy": 126,
+      "clipboard_paste": 148,
+      "process_switched_out": 87,
+      "process_suspended": 26,
+      "process_resumed": 43,
+      "session_ended": 1
+    }
+  },
+  "A": {
+    "events": 941,
+    "started": 130,
+    "suspended": 13,
+    "resumed": 29,
+    "switched_out": 132,
+    "variants": {
+      "std": 711,
+      "exc": 230
+    },
+    "event_types": {
+      "process_started": 130,
+      "task_started": 159,
+      "clipboard_copy": 159,
+      "clipboard_paste": 318,
+      "process_switched_out": 132,
+      "process_suspended": 13,
+      "process_resumed": 29,
+      "session_ended": 1
+    }
+  },
+  "M": {
+    "events": 761,
+    "started": 155,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 137,
+    "variants": {},
+    "event_types": {
+      "process_started": 155,
+      "task_started": 155,
+      "clipboard_copy": 155,
+      "clipboard_paste": 155,
+      "process_switched_out": 137,
+      "session_ended": 4
+    }
+  },
+  "J": {
+    "events": 596,
+    "started": 102,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 79,
+    "variants": {},
+    "event_types": {
+      "process_started": 102,
+      "task_started": 102,
+      "clipboard_copy": 102,
+      "clipboard_paste": 204,
+      "process_switched_out": 79,
+      "session_ended": 7
+    }
+  },
+  "G": {
+    "events": 725,
+    "started": 144,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 121,
+    "variants": {
+      "reg": 563,
+      "adj": 162
+    },
+    "event_types": {
+      "process_started": 144,
+      "task_started": 144,
+      "clipboard_copy": 144,
+      "clipboard_paste": 171,
+      "process_switched_out": 121,
+      "session_ended": 1
+    }
+  },
+  "E": {
+    "events": 649,
+    "started": 111,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 81,
+    "variants": {},
+    "event_types": {
+      "process_started": 111,
+      "task_started": 111,
+      "clipboard_copy": 111,
+      "clipboard_paste": 222,
+      "process_switched_out": 81,
+      "session_ended": 13
+    }
+  },
+  "O": {
+    "events": 650,
+    "started": 111,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 85,
+    "variants": {},
+    "event_types": {
+      "process_started": 111,
+      "task_started": 111,
+      "clipboard_copy": 111,
+      "clipboard_paste": 222,
+      "process_switched_out": 85,
+      "session_ended": 10
+    }
+  },
+  "K": {
+    "events": 746,
+    "started": 102,
+    "suspended": 15,
+    "resumed": 25,
+    "switched_out": 95,
+    "variants": {
+      "std": 563,
+      "exc": 183
+    },
+    "event_types": {
+      "process_started": 102,
+      "task_started": 127,
+      "clipboard_copy": 127,
+      "clipboard_paste": 254,
+      "process_switched_out": 95,
+      "process_suspended": 15,
+      "process_resumed": 25,
+      "session_ended": 1
+    }
+  },
+  "F": {
+    "events": 996,
+    "started": 115,
+    "suspended": 23,
+    "resumed": 54,
+    "switched_out": 126,
+    "variants": {
+      "std": 722,
+      "exc": 274
+    },
+    "event_types": {
+      "process_started": 115,
+      "task_started": 169,
+      "clipboard_copy": 169,
+      "clipboard_paste": 338,
+      "process_switched_out": 126,
+      "process_suspended": 23,
+      "process_resumed": 54,
+      "session_ended": 2
+    }
+  },
+  "N": {
+    "events": 496,
+    "started": 129,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 104,
+    "variants": {},
+    "event_types": {
+      "process_started": 129,
+      "task_started": 129,
+      "clipboard_paste": 129,
+      "process_switched_out": 104,
+      "session_ended": 5
+    }
+  },
+  "L": {
+    "events": 696,
+    "started": 98,
+    "suspended": 22,
+    "resumed": 39,
+    "switched_out": 100,
+    "variants": {
+      "reg": 540,
+      "adj": 156
+    },
+    "event_types": {
+      "process_started": 98,
+      "task_started": 137,
+      "clipboard_copy": 137,
+      "clipboard_paste": 163,
+      "process_switched_out": 100,
+      "process_suspended": 22,
+      "process_resumed": 39
+    }
+  },
+  "I": {
+    "events": 572,
+    "started": 117,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 99,
+    "variants": {},
+    "event_types": {
+      "process_started": 117,
+      "task_started": 117,
+      "clipboard_copy": 117,
+      "clipboard_paste": 117,
+      "process_switched_out": 99,
+      "session_ended": 5
+    }
+  },
+  "D": {
+    "events": 437,
+    "started": 114,
+    "suspended": 0,
+    "resumed": 0,
+    "switched_out": 91,
+    "variants": {},
+    "event_types": {
+      "process_started": 114,
+      "task_started": 114,
+      "clipboard_paste": 114,
+      "process_switched_out": 91,
+      "session_ended": 4
+    }
+  }
+}

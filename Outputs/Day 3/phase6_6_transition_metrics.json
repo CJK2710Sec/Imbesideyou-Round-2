@@ -1,0 +1,86 @@
+{
+  "phase": "6.6",
+  "dataset": "Dataset A\\dataset_a",
+  "manifest_executions": 2009,
+  "usable_executions": 1734,
+  "process_classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O"
+  ],
+  "session_count": 63,
+  "feature_count": 450,
+  "transition_weight": 0.35,
+  "diagnostics": {
+    "missing_end": 257,
+    "no_events_inside_window": 18,
+    "total_manifest_records": 2009,
+    "usable_feature_rows": 1734
+  },
+  "results": {
+    "base": {
+      "accuracy": 0.353517877739331,
+      "macro_f1": 0.3508453946045263,
+      "weighted_f1": 0.35004747163601874
+    },
+    "transition_aware": {
+      "accuracy": 0.3489042675893887,
+      "macro_f1": 0.3442280408608168,
+      "weighted_f1": 0.34489269408862666
+    },
+    "folds": [
+      {
+        "fold": 1,
+        "base_accuracy": 0.35294117647058826,
+        "base_macro_f1": 0.3488627117152471,
+        "transition_accuracy": 0.36694677871148457,
+        "transition_macro_f1": 0.361674724624023,
+        "training_transition_edges": 209
+      },
+      {
+        "fold": 2,
+        "base_accuracy": 0.3786127167630058,
+        "base_macro_f1": 0.3898929375131856,
+        "transition_accuracy": 0.3670520231213873,
+        "transition_macro_f1": 0.3743009771942826,
+        "training_transition_edges": 208
+      },
+      {
+        "fold": 3,
+        "base_accuracy": 0.36797752808988765,
+        "base_macro_f1": 0.354631066410003,
+        "transition_accuracy": 0.3595505617977528,
+        "transition_macro_f1": 0.3463567074990482,
+        "training_transition_edges": 210
+      },
+      {
+        "fold": 4,
+        "base_accuracy": 0.3076923076923077,
+        "base_macro_f1": 0.2984706783113228,
+        "transition_accuracy": 0.3047337278106509,
+        "transition_macro_f1": 0.2950871481259217,
+        "training_transition_edges": 210
+      },
+      {
+        "fold": 5,
+        "base_accuracy": 0.3590504451038576,
+        "base_macro_f1": 0.3463030698389857,
+        "transition_accuracy": 0.34421364985163205,
+        "transition_macro_f1": 0.3291656115997933,
+        "training_transition_edges": 209
+      }
+    ]
+  }
+}

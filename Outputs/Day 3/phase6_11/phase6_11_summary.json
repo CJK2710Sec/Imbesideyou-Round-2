@@ -1,0 +1,16 @@
+{
+  "phase": "6.11",
+  "dataset": "B",
+  "sessions": 15,
+  "raw_events": 20477,
+  "5f_candidates": 1276,
+  "confirmed_boundaries": 204,
+  "segments": 219,
+  "process_families_discovered": 2,
+  "cluster_silhouette_cosine": 0.31925235541816827,
+  "confirmation_threshold": 0.7,
+  "identity_method": "Dataset-B-only unsupervised behavioral clustering",
+  "roi_screen": "40% frequency + 40% total time + 20% duration consistency",
+  "ground_truth_available": false,
+  "warning": "Process labels and automation priority are discovery outputs and require business validation before production automation."
+}

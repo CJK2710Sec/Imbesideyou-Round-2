@@ -1,0 +1,23 @@
+{
+  "phase": "6.7",
+  "transition_weight": 1.15,
+  "manifest_executions": 2009,
+  "usable_executions": 1734,
+  "process_classes": 15,
+  "session_groups": 63,
+  "feature_count": 450,
+  "combined_feature_count": 417,
+  "base_accuracy": 0.34154759303852444,
+  "base_macro_f1": 0.3367278431725934,
+  "hybrid_accuracy": 0.3261094435653862,
+  "hybrid_macro_f1": 0.31788376080257064,
+  "accuracy_delta": -0.015438149473138263,
+  "macro_f1_delta": -0.018844082370022774,
+  "correct_mean_confidence": 0.5183419666572293,
+  "incorrect_mean_confidence": 0.3409389541778964,
+  "correct_mean_margin": 0.3279251747354158,
+  "incorrect_mean_margin": 0.13967151365477226,
+  "high_confidence_threshold": 0.8,
+  "high_confidence_count": 108,
+  "high_confidence_errors": 12
+}

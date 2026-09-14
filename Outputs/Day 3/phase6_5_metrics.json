@@ -1,0 +1,108 @@
+{
+  "dataset": "Dataset A\\dataset_a",
+  "manifest_executions": 2009,
+  "complete_timed_executions": 1734,
+  "process_classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O"
+  ],
+  "session_count": 63,
+  "feature_count": 450,
+  "sequence_feature_count": 417,
+  "combined_feature_count": 417,
+  "diagnostics": {
+    "missing_end": 257,
+    "no_events_inside_window": 18,
+    "total_manifest_records": 2009,
+    "usable_feature_rows": 1734
+  },
+  "models": {
+    "sequence_only_logistic": {
+      "accuracy": 0.29700115340253747,
+      "macro_f1": 0.3028920110133028,
+      "weighted_f1": 0.29773715776404924,
+      "folds": [
+        {
+          "fold": 1,
+          "accuracy": 0.29971988795518206,
+          "macro_f1": 0.29766182967980886,
+          "weighted_f1": 0.30173971200137517
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.31213872832369943,
+          "macro_f1": 0.3204920091387065,
+          "weighted_f1": 0.31902982939592917
+        },
+        {
+          "fold": 3,
+          "accuracy": 0.2893258426966292,
+          "macro_f1": 0.2959241070618915,
+          "weighted_f1": 0.29223944445397276
+        },
+        {
+          "fold": 4,
+          "accuracy": 0.2958579881656805,
+          "macro_f1": 0.2917542481109406,
+          "weighted_f1": 0.2894980910785261
+        },
+        {
+          "fold": 5,
+          "accuracy": 0.2878338278931751,
+          "macro_f1": 0.28496480447982075,
+          "weighted_f1": 0.29115177816088356
+        }
+      ]
+    },
+    "sequence_context_random_forest": {
+      "accuracy": 0.3419838523644752,
+      "macro_f1": 0.3404230172745937,
+      "weighted_f1": 0.3399954606163403,
+      "folds": [
+        {
+          "fold": 1,
+          "accuracy": 0.35294117647058826,
+          "macro_f1": 0.3516301351023994,
+          "weighted_f1": 0.358680754569657
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.3554913294797688,
+          "macro_f1": 0.362489860183876,
+          "weighted_f1": 0.3575804871076707
+        },
+        {
+          "fold": 3,
+          "accuracy": 0.3651685393258427,
+          "macro_f1": 0.35587878710988435,
+          "weighted_f1": 0.3594664067348601
+        },
+        {
+          "fold": 4,
+          "accuracy": 0.2958579881656805,
+          "macro_f1": 0.2851620307432384,
+          "weighted_f1": 0.28607946993226635
+        },
+        {
+          "fold": 5,
+          "accuracy": 0.33827893175074186,
+          "macro_f1": 0.32847840272356876,
+          "weighted_f1": 0.3443493965457541
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "phase": "6.8",
+  "hybrid_transition_model": false,
+  "boundary_threshold": 0.7,
+  "prediction_file": "Outputs\\Day 2\\day2_learned_boundary_confirmation_v2\\learned_boundary_scores_v2.csv",
+  "gt_source": "Dataset A gt.jsonl process_switched_out",
+  "predicted_boundaries": 1455,
+  "gt_boundaries": 1590,
+  "tp": 1163,
+  "fp": 292,
+  "fn": 427,
+  "precision": 0.7993127147766323,
+  "recall": 0.7314465408805031,
+  "f1": 0.7638752052545157,
+  "constructed_segments": 1518,
+  "overlap_50": 1342,
+  "overlap_80": 1281
+}

@@ -1,0 +1,210 @@
+{
+  "phase": "6.4",
+  "manifest_executions": 2009,
+  "complete_executions_used": 1752,
+  "incomplete_executions_excluded": 257,
+  "process_families": 15,
+  "session_groups": 63,
+  "behavioral_feature_count": 72,
+  "model_comparison": {
+    "complete_gt_executions": 1752,
+    "process_classes": 15,
+    "session_groups": 63,
+    "behavioral_logistic": {
+      "accuracy": 0.21575342465753425,
+      "macro_f1": 0.20747108325386837
+    },
+    "behavioral_random_forest": {
+      "accuracy": 0.2928082191780822,
+      "macro_f1": 0.28278257897673215
+    },
+    "app_only_baseline": {
+      "accuracy": 0.1643835616438356,
+      "macro_f1": 0.13541690916296828
+    }
+  },
+  "top_features": [
+    {
+      "feature": "duration_log",
+      "importance": 0.07144921002159192
+    },
+    {
+      "feature": "shortcut_rate",
+      "importance": 0.032793439493431345
+    },
+    {
+      "feature": "keystroke_rate",
+      "importance": 0.03221354219608755
+    },
+    {
+      "feature": "type_ratio__keystroke",
+      "importance": 0.03173835315706712
+    },
+    {
+      "feature": "clipboard_rate",
+      "importance": 0.03092919670086633
+    },
+    {
+      "feature": "type_ratio__clipboard_change",
+      "importance": 0.030893806891532385
+    },
+    {
+      "feature": "click_rate",
+      "importance": 0.02991919234787856
+    },
+    {
+      "feature": "type_ratio__shortcut",
+      "importance": 0.028395795578362804
+    },
+    {
+      "feature": "browser_input_rate",
+      "importance": 0.02823265885456672
+    },
+    {
+      "feature": "app_entropy",
+      "importance": 0.02769011489872271
+    },
+    {
+      "feature": "event_count_log",
+      "importance": 0.02756095625554704
+    },
+    {
+      "feature": "scroll_rate",
+      "importance": 0.027208919258862242
+    },
+    {
+      "feature": "type_ratio__app_switch",
+      "importance": 0.027025767999971268
+    },
+    {
+      "feature": "screenshot_rate",
+      "importance": 0.026968279036563785
+    },
+    {
+      "feature": "browser_click_rate",
+      "importance": 0.026748947687954026
+    },
+    {
+      "feature": "event_rate",
+      "importance": 0.026454363255217633
+    },
+    {
+      "feature": "app_ratio__google_chrome",
+      "importance": 0.026425752843898108
+    },
+    {
+      "feature": "app_switch_rate",
+      "importance": 0.02638214249712868
+    },
+    {
+      "feature": "type_ratio__mouse_click",
+      "importance": 0.02610366301454854
+    },
+    {
+      "feature": "event_type_entropy",
+      "importance": 0.025687660957036583
+    }
+  ],
+  "top_confusion_pairs": [
+    {
+      "actual": "C",
+      "predicted": "M",
+      "count": 56
+    },
+    {
+      "actual": "M",
+      "predicted": "C",
+      "count": 48
+    },
+    {
+      "actual": "D",
+      "predicted": "N",
+      "count": 31
+    },
+    {
+      "actual": "F",
+      "predicted": "A",
+      "count": 30
+    },
+    {
+      "actual": "H",
+      "predicted": "F",
+      "count": 29
+    },
+    {
+      "actual": "B",
+      "predicted": "G",
+      "count": 27
+    },
+    {
+      "actual": "F",
+      "predicted": "H",
+      "count": 27
+    },
+    {
+      "actual": "L",
+      "predicted": "G",
+      "count": 24
+    },
+    {
+      "actual": "G",
+      "predicted": "L",
+      "count": 23
+    },
+    {
+      "actual": "K",
+      "predicted": "A",
+      "count": 23
+    },
+    {
+      "actual": "A",
+      "predicted": "F",
+      "count": 22
+    },
+    {
+      "actual": "H",
+      "predicted": "A",
+      "count": 22
+    },
+    {
+      "actual": "O",
+      "predicted": "A",
+      "count": 20
+    },
+    {
+      "actual": "K",
+      "predicted": "F",
+      "count": 19
+    },
+    {
+      "actual": "N",
+      "predicted": "D",
+      "count": 19
+    },
+    {
+      "actual": "E",
+      "predicted": "A",
+      "count": 18
+    },
+    {
+      "actual": "J",
+      "predicted": "A",
+      "count": 18
+    },
+    {
+      "actual": "N",
+      "predicted": "C",
+      "count": 18
+    },
+    {
+      "actual": "O",
+      "predicted": "F",
+      "count": 18
+    },
+    {
+      "actual": "B",
+      "predicted": "L",
+      "count": 17
+    }
+  ]
+}

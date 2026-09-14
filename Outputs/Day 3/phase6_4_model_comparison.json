@@ -1,0 +1,17 @@
+{
+  "complete_gt_executions": 1752,
+  "process_classes": 15,
+  "session_groups": 63,
+  "behavioral_logistic": {
+    "accuracy": 0.21575342465753425,
+    "macro_f1": 0.20747108325386837
+  },
+  "behavioral_random_forest": {
+    "accuracy": 0.2928082191780822,
+    "macro_f1": 0.28278257897673215
+  },
+  "app_only_baseline": {
+    "accuracy": 0.1643835616438356,
+    "macro_f1": 0.13541690916296828
+  }
+}

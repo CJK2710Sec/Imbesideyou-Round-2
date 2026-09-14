@@ -1,0 +1,170 @@
+{
+  "H": {
+    "executions": 147,
+    "variants": {},
+    "domains": {
+      "finance": 147
+    },
+    "case_ids": 147,
+    "continues_from_previous": 3,
+    "continues_to_next": 3
+  },
+  "C": {
+    "executions": 161,
+    "variants": {},
+    "domains": {
+      "hr": 161
+    },
+    "case_ids": 161,
+    "continues_from_previous": 1,
+    "continues_to_next": 1
+  },
+  "B": {
+    "executions": 126,
+    "variants": {
+      "reg": 104,
+      "adj": 22
+    },
+    "domains": {
+      "hr": 126
+    },
+    "case_ids": 126,
+    "continues_from_previous": 6,
+    "continues_to_next": 6
+  },
+  "A": {
+    "executions": 159,
+    "variants": {
+      "std": 120,
+      "exc": 39
+    },
+    "domains": {
+      "hr": 159
+    },
+    "case_ids": 159,
+    "continues_from_previous": 3,
+    "continues_to_next": 3
+  },
+  "M": {
+    "executions": 155,
+    "variants": {},
+    "domains": {
+      "ops": 155
+    },
+    "case_ids": 155,
+    "continues_from_previous": 0,
+    "continues_to_next": 0
+  },
+  "J": {
+    "executions": 102,
+    "variants": {},
+    "domains": {
+      "finance": 102
+    },
+    "case_ids": 102,
+    "continues_from_previous": 0,
+    "continues_to_next": 0
+  },
+  "G": {
+    "executions": 144,
+    "variants": {
+      "reg": 117,
+      "adj": 27
+    },
+    "domains": {
+      "finance": 144
+    },
+    "case_ids": 144,
+    "continues_from_previous": 4,
+    "continues_to_next": 4
+  },
+  "E": {
+    "executions": 111,
+    "variants": {},
+    "domains": {
+      "hr": 111
+    },
+    "case_ids": 111,
+    "continues_from_previous": 2,
+    "continues_to_next": 2
+  },
+  "O": {
+    "executions": 111,
+    "variants": {},
+    "domains": {
+      "ops": 111
+    },
+    "case_ids": 111,
+    "continues_from_previous": 2,
+    "continues_to_next": 2
+  },
+  "K": {
+    "executions": 127,
+    "variants": {
+      "std": 96,
+      "exc": 31
+    },
+    "domains": {
+      "ops": 127
+    },
+    "case_ids": 127,
+    "continues_from_previous": 7,
+    "continues_to_next": 7
+  },
+  "F": {
+    "executions": 169,
+    "variants": {
+      "std": 123,
+      "exc": 46
+    },
+    "domains": {
+      "finance": 169
+    },
+    "case_ids": 169,
+    "continues_from_previous": 17,
+    "continues_to_next": 17
+  },
+  "N": {
+    "executions": 129,
+    "variants": {},
+    "domains": {
+      "ops": 129
+    },
+    "case_ids": 129,
+    "continues_from_previous": 2,
+    "continues_to_next": 2
+  },
+  "L": {
+    "executions": 137,
+    "variants": {
+      "reg": 111,
+      "adj": 26
+    },
+    "domains": {
+      "ops": 137
+    },
+    "case_ids": 137,
+    "continues_from_previous": 10,
+    "continues_to_next": 10
+  },
+  "I": {
+    "executions": 117,
+    "variants": {},
+    "domains": {
+      "finance": 117
+    },
+    "case_ids": 117,
+    "continues_from_previous": 3,
+    "continues_to_next": 3
+  },
+  "D": {
+    "executions": 114,
+    "variants": {},
+    "domains": {
+      "hr": 114
+    },
+    "case_ids": 114,
+    "continues_from_previous": 3,
+    "continues_to_next": 3
+  }
+}

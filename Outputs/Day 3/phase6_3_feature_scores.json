@@ -1,0 +1,42 @@
+{
+  "between_process_variance_ratio": {
+    "duration_seconds": 0.30264436607977807,
+    "app_entropy": 0.2755123074256441,
+    "unique_apps": 0.27438443388182515,
+    "keystrokes_per_second": 0.26952947743183675,
+    "window_count": 0.25015677150471805,
+    "clipboard_count": 0.24161745335077975,
+    "screenshot_count": 0.22511494960840767,
+    "event_count": 0.21404727370657947,
+    "clipboard_per_second": 0.20799238861648128,
+    "clicks_per_second": 0.20678623174874472,
+    "unique_event_types": 0.2039576572498578,
+    "events_per_second": 0.20146092729408507,
+    "mouse_click_count": 0.20019333481624516,
+    "keystroke_count": 0.17310798205822384,
+    "browser_count": 0.17052550957388116,
+    "unique_layers": 0.13036986858518299,
+    "layer_entropy": 0.11923025924360395,
+    "event_type_entropy": 0.11877294262466825
+  },
+  "mutual_information": {
+    "duration_seconds": 0.5347650629379825,
+    "keystroke_count": 0.31951353302170915,
+    "keystrokes_per_second": 0.1785097339279189,
+    "clicks_per_second": 0.12607035462494665,
+    "window_count": 0.11850673302084047,
+    "clipboard_count": 0.10798451791944386,
+    "clipboard_per_second": 0.09809240024712063,
+    "events_per_second": 0.09450272110758062,
+    "event_count": 0.07431824247088015,
+    "unique_apps": 0.07041394778324195,
+    "screenshot_count": 0.05756790499759745,
+    "app_entropy": 0.05636883647157953,
+    "mouse_click_count": 0.05572621404783584,
+    "event_type_entropy": 0.04109916672865177,
+    "browser_count": 0.03663902147550502,
+    "unique_event_types": 0.03287641674201991,
+    "layer_entropy": 0.015086506217122153,
+    "unique_layers": 0.0
+  }
+}

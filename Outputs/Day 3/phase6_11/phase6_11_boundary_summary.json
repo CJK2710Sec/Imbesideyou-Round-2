@@ -1,0 +1,12 @@
+{
+  "dataset": "B",
+  "sessions": 15,
+  "raw_events": 20477,
+  "continuous_score_rows": 105755,
+  "5f_candidates": 1276,
+  "confirmed_boundaries": 204,
+  "confirmation_threshold": 0.7,
+  "mean_boundary_probability": 0.4461411999023686,
+  "median_boundary_probability": 0.461312143638378,
+  "note": "Dataset B has no ground truth; no boundary precision/recall is reported."
+}

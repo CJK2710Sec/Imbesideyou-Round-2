@@ -1,0 +1,21 @@
+{
+  "phase": "6.9",
+  "identity_model": "sequence_context_random_forest",
+  "transition_hybrid": false,
+  "training_rows": 1734,
+  "process_classes": 15,
+  "feature_count": 417,
+  "segments_loaded": 1518,
+  "usable_segments": 1517,
+  "confidence_threshold": 0.8,
+  "high_confidence_count": 84,
+  "high_confidence_coverage": 0.055372445616348055,
+  "mean_confidence": 0.4218018702811831,
+  "median_confidence": 0.42046215229977585,
+  "mean_margin": 0.2613862135805725,
+  "gt_windows": 1752,
+  "gt_evaluable_segments": 1476,
+  "gt_identity_accuracy": 0.6571815718157181,
+  "overlap_50": 1342,
+  "overlap_80": 1281
+}

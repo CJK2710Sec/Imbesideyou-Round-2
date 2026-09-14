@@ -1,0 +1,73 @@
+{
+  "phase": "6.10",
+  "purpose": "GT-validated identity model selection",
+  "feature_pipeline": "exact_phase_6_5",
+  "identity_model": "RandomForestClassifier",
+  "random_forest": {
+    "n_estimators": 500,
+    "random_state": 42,
+    "class_weight": "balanced_subsample",
+    "min_samples_leaf": 2
+  },
+  "transition_hybrid": false,
+  "neighbor_rule": "soft evidence only",
+  "hard_neighbor_constraint": false,
+  "repeated_process_allowed": true,
+  "aba_allowed": true,
+  "training_rows": 1734,
+  "numeric_feature_count": 450,
+  "identity_feature_count": 417,
+  "segments_loaded": 1518,
+  "usable_segments": 1517,
+  "gt_windows": 1752,
+  "gt_evaluable_segments": 1342,
+  "minimum_gt_overlap": 0.5,
+  "local_weight": 0.2,
+  "process_weight": 0.2,
+  "winner": "RF + process-consistency",
+  "winner_accuracy": 0.7049180327868853,
+  "winner_macro_f1": 0.703429699794666,
+  "winner_coverage": 0.8846407382992749,
+  "winner_mean_confidence": 0.35411463365802764,
+  "winner_median_confidence": 0.351968663664584,
+  "winner_mean_gt_overlap": 0.8812422139918663,
+  "method_ranking": [
+    {
+      "rank": 1,
+      "method": "RF + process-consistency",
+      "accuracy": 0.7049180327868853,
+      "macro_f1": 0.703429699794666,
+      "coverage": 0.8846407382992749
+    },
+    {
+      "rank": 2,
+      "method": "RF-only",
+      "accuracy": 0.7049180327868853,
+      "macro_f1": 0.7030654725279768,
+      "coverage": 0.8846407382992749
+    },
+    {
+      "rank": 3,
+      "method": "RF + local-neighbor",
+      "accuracy": 0.6885245901639344,
+      "macro_f1": 0.6851941453687701,
+      "coverage": 0.8846407382992749
+    },
+    {
+      "rank": 4,
+      "method": "Combined",
+      "accuracy": 0.684053651266766,
+      "macro_f1": 0.680388046365565,
+      "coverage": 0.8846407382992749
+    }
+  ],
+  "interleaving_diagnostics": {
+    "sessions_with_repeated_process": 63,
+    "aba_patterns": 142
+  },
+  "segment_diagnostics": {
+    "no_events_inside_segment": 1,
+    "segments_total": 1518,
+    "usable_segments": 1517
+  }
+}

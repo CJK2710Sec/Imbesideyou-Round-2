@@ -1,0 +1,141 @@
+# Day 3 — Phase 6.2
+
+## Process Identity and Interleaving Analysis
+
+## Summary
+
+- Manifest files analyzed: 63
+- Ground-truth executions analyzed: 2009
+- Process families: 15
+- Unique process transitions: 210
+- Repeated-process sessions: 576
+- A-B-A patterns: 183
+- Continues from previous chunk: 63
+- Continues to next chunk: 63
+
+## Process Families
+
+| Process | Executions | Variants |
+|---|---:|---|
+| A | 159 | std: 120, exc: 39 |
+| B | 126 | reg: 104, adj: 22 |
+| C | 161 |  |
+| D | 114 |  |
+| E | 111 |  |
+| F | 169 | std: 123, exc: 46 |
+| G | 144 | reg: 117, adj: 27 |
+| H | 147 |  |
+| I | 117 |  |
+| J | 102 |  |
+| K | 127 | std: 96, exc: 31 |
+| L | 137 | reg: 111, adj: 26 |
+| M | 155 |  |
+| N | 129 |  |
+| O | 111 |  |
+
+## A-B-A Patterns
+
+- G → J → G (cases: EXP-175009-003, PM-175009-002, EXP-175009-004)
+- J → G → J (cases: PM-175009-002, EXP-175009-004, PM-175009-003)
+- E → C → E (cases: OB-175009-002, LA-175009-004, OB-175009-003)
+- A → F → A (cases: RT-181750-001, INV-181750-002, RT-181750-002)
+- M → A → M (cases: SUP-181750-003, RT-181750-005, SUP-181750-004)
+- C → L → C (cases: LA-184607-002, STK-184607-002, LA-184607-003)
+- C → M → C (cases: LA-184607-003, SUP-184607-001, LA-184607-004)
+- L → M → L (cases: STK-184607-003, SUP-184607-002, STK-184607-004)
+- E → N → E (cases: OB-184607-002, SHP-184607-001, OB-184607-003)
+- F → C → F (cases: INV-185754-002, LA-185754-003, INV-185754-003)
+- C → F → C (cases: LA-185754-003, INV-185754-003, LA-185754-004)
+- O → D → O (cases: RET-185754-002, SI-185754-003, RET-185754-003)
+- B → A → B (cases: PI-185754-003, RT-185754-003, PI-185754-004)
+- H → E → H (cases: BR-185754-003, OB-185754-003, BR-185754-004)
+- B → L → B (cases: PI-192210-001, STK-192210-002, PI-192210-002)
+- L → K → L (cases: STK-192210-003, ORD-192210-003, STK-192210-004)
+- G → K → G (cases: EXP-192210-003, ORD-192210-005, EXP-192210-004)
+- M → N → M (cases: SUP-191840-001, SHP-191840-001, SUP-191840-002)
+- A → I → A (cases: RT-191840-003, BV-191840-001, RT-191840-004)
+- I → N → I (cases: BV-191840-002, SHP-191840-002, BV-191840-003)
+- N → I → N (cases: SHP-191840-002, BV-191840-003, SHP-191840-003)
+- K → H → K (cases: ORD-202333-001, BR-202333-001, ORD-202333-002)
+- N → G → N (cases: SHP-202333-001, EXP-202333-001, SHP-202333-002)
+- A → M → A (cases: RT-202333-001, SUP-202333-001, RT-202333-002)
+- G → M → G (cases: EXP-202333-002, SUP-202333-002, EXP-202333-003)
+- B → G → B (cases: PI-220339-001, EXP-220339-001, PI-220339-002)
+- G → F → G (cases: EXP-220339-002, INV-220339-003, EXP-220339-003)
+- J → F → J (cases: PM-220339-001, INV-220339-004, PM-220339-002)
+- M → O → M (cases: SUP-220339-001, RET-220339-002, SUP-220339-002)
+- A → B → A (cases: RT-221428-001, PI-221428-001, RT-221428-002)
+- A → O → A (cases: RT-221428-002, RET-221428-001, RT-221428-003)
+- M → E → M (cases: SUP-221428-003, OB-221428-001, SUP-221428-004)
+- E → M → E (cases: OB-221428-001, SUP-221428-004, OB-221428-002)
+- G → H → G (cases: EXP-062507-001, BR-062507-001, EXP-062507-002)
+- O → L → O (cases: RET-062507-002, STK-062507-001, RET-062507-003)
+- C → A → C (cases: LA-062507-001, RT-062507-001, LA-062507-002)
+- A → F → A (cases: RT-062507-002, INV-062507-003, RT-062507-003)
+- I → J → I (cases: BV-062507-001, PM-062507-003, BV-062507-002)
+- K → F → K (cases: ORD-071644-002, INV-071644-002, ORD-071644-003)
+- D → M → D (cases: SI-071644-002, SUP-071644-001, SI-071644-003)
+- M → D → M (cases: SUP-071644-001, SI-071644-003, SUP-071644-002)
+- M → H → M (cases: SUP-071644-003, BR-071644-001, SUP-071644-004)
+- H → M → H (cases: BR-071644-001, SUP-071644-004, BR-071644-002)
+- N → K → N (cases: SHP-083800-001, ORD-083800-001, SHP-083800-002)
+- N → D → N (cases: SHP-083800-002, SI-083800-001, SHP-083800-003)
+- D → L → D (cases: SI-083800-002, STK-083800-001, SI-083800-003)
+- H → K → H (cases: BR-083800-001, ORD-083800-002, BR-083800-002)
+- G → C → G (cases: EXP-083800-003, LA-083800-002, EXP-083800-004)
+- B → H → B (cases: PI-085736-001, BR-085736-001, PI-085736-002)
+- I → C → I (cases: BV-085736-002, LA-085736-002, BV-085736-003)
+- J → A → J (cases: PM-085736-001, RT-085736-003, PM-085736-002)
+- E → C → E (cases: OB-085736-002, LA-085736-004, OB-085736-003)
+- B → L → B (cases: PI-092612-001, STK-092612-001, PI-092612-002)
+- F → E → F (cases: INV-092612-001, OB-092612-001, INV-092612-002)
+- G → I → G (cases: EXP-092612-002, BV-092612-002, EXP-092612-003)
+- K → E → K (cases: ORD-092612-002, OB-092612-002, ORD-092612-003)
+- H → E → H (cases: BR-092612-002, OB-092612-003, BR-092612-003)
+- M → D → M (cases: SUP-092612-002, SI-092612-002, SUP-092612-003)
+- G → H → G (cases: EXP-100848-003, BR-100848-002, EXP-100848-004)
+- H → G → H (cases: BR-100848-002, EXP-100848-004, BR-100848-003)
+- M → C → M (cases: SUP-101000-002, LA-101000-002, SUP-101000-003)
+- C → M → C (cases: LA-101000-002, SUP-101000-003, LA-101000-003)
+- J → I → J (cases: PM-101000-001, BV-101000-003, PM-101000-002)
+- I → N → I (cases: BV-104902-001, SHP-104902-001, BV-104902-002)
+- G → K → G (cases: EXP-104902-001, ORD-104902-003, EXP-104902-002)
+- D → K → D (cases: SI-104902-002, ORD-104902-005, SI-104902-003)
+- A → E → A (cases: RT-110019-002, OB-110019-001, RT-110019-003)
+- B → D → B (cases: PI-110019-003, SI-110019-003, PI-110019-004)
+- C → E → C (cases: LA-110019-003, OB-110019-003, LA-110019-004)
+- F → L → F (cases: INV-110635-001, STK-110635-001, INV-110635-002)
+- C → N → C (cases: LA-110635-002, SHP-110635-003, LA-110635-003)
+- F → A → F (cases: INV-111912-001, RT-111912-001, INV-111912-002)
+- N → I → N (cases: SHP-111912-002, BV-111912-003, SHP-111912-003)
+- F → A → F (cases: INV-111912-001, RT-111912-001, INV-111912-002)
+- N → I → N (cases: SHP-111912-002, BV-111912-003, SHP-111912-003)
+- D → K → D (cases: SI-112003-002, ORD-112003-004, SI-112003-003)
+- A → E → A (cases: RT-112003-004, OB-112003-003, RT-112003-005)
+- B → C → B (cases: PI-115207-003, LA-115207-001, PI-115207-004)
+- B → F → B (cases: PI-115753-001, INV-115753-002, PI-115753-002)
+- A → C → A (cases: RT-115753-002, LA-115753-001, RT-115753-003)
+- M → O → M (cases: SUP-115753-002, RET-115753-002, SUP-115753-003)
+- G → D → G (cases: EXP-120116-001, SI-120116-001, EXP-120116-002)
+- F → D → F (cases: INV-120116-003, SI-120116-003, INV-120116-004)
+- F → B → F (cases: INV-120116-004, PI-120116-003, INV-120116-005)
+- H → N → H (cases: BR-120116-002, SHP-120116-002, BR-120116-003)
+- C → N → C (cases: LA-122013-003, SHP-122013-003, LA-122013-004)
+- A → D → A (cases: RT-123250-003, SI-123250-002, RT-123250-004)
+- B → J → B (cases: PI-123250-003, PM-123250-003, PI-123250-004)
+- I → L → I (cases: BV-124819-001, STK-124819-001, BV-124819-002)
+- C → O → C (cases: LA-124819-002, RET-124819-001, LA-124819-003)
+- M → C → M (cases: SUP-124819-003, LA-124819-004, SUP-124819-004)
+- L → E → L (cases: STK-124819-002, OB-124819-002, STK-124819-003)
+- M → N → M (cases: SUP-125329-002, SHP-125329-001, SUP-125329-003)
+- E → F → E (cases: OB-125329-002, INV-125329-005, OB-125329-003)
+- L → G → L (cases: STK-125403-001, EXP-125403-002, STK-125403-002)
+- B → H → B (cases: PI-131352-001, BR-131352-001, PI-131352-002)
+- F → E → F (cases: INV-131352-001, OB-131352-002, INV-131352-002)
+- N → I → N (cases: SHP-131352-002, BV-131352-002, SHP-131352-003)
+- A → G → A (cases: RT-132513-001, EXP-132513-001, RT-132513-002)
+- O → N → O (cases: RET-132513-001, SHP-132513-003, RET-132513-002)
+
+## Interpretation
+
+This analysis uses gt_manifest.json execution records rather than reconstructing executions from event-level start/switch signals. This provides a direct ground-truth reference for process identity, repeated executions, variants, continuation across chunks, and interleaving.

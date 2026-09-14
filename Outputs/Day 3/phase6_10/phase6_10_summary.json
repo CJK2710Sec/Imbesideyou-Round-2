@@ -1,0 +1,54 @@
+{
+  "phase": "6.10",
+  "purpose": "confidence_aware_process_identity_resolution",
+  "input_rows": 1517,
+  "resolved_rows": 1517,
+  "confidence_threshold": 0.8,
+  "margin_threshold": 0.25,
+  "transition_hybrid": false,
+  "boundaries_modified": false,
+  "labels_changed": 7,
+  "low_confidence_input": 1433,
+  "strong_anchor_rows": 84,
+  "two_sided_resolutions": 7,
+  "low_confidence_unresolved": 1426,
+  "resolution_coverage": 0.05998681608437706,
+  "process_count": 15,
+  "process_counts": {
+    "A": 109,
+    "B": 83,
+    "C": 110,
+    "D": 80,
+    "E": 57,
+    "F": 154,
+    "G": 76,
+    "H": 76,
+    "I": 134,
+    "J": 94,
+    "K": 86,
+    "L": 67,
+    "M": 139,
+    "N": 171,
+    "O": 81
+  },
+  "validation": {
+    "segments": 1517,
+    "invalid_timestamp": 0,
+    "invalid_interval": 0,
+    "missing_label": 0,
+    "missing_session": 0,
+    "duplicate_segment": 0,
+    "overlapping_segments_same_session": 0
+  },
+  "resolution_methods": {
+    "low_confidence_unresolved": 1426,
+    "strong_anchor": 84,
+    "two_sided_anchor_agreement": 7
+  },
+  "final_segment_schema": {
+    "session_id": "string",
+    "start": "ISO-8601 timestamp",
+    "end": "ISO-8601 timestamp",
+    "label": "process code"
+  }
+}
