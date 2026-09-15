@@ -1,0 +1,52 @@
+{
+  "evidence_basis": {
+    "events": 20477,
+    "sessions": 15,
+    "caveat": "Dataset B has no ground truth. BPROC_01 is a behavioral family, not a confirmed Finance process; UI evidence is not assigned to BPROC_01."
+  },
+  "candidate_workflow": [
+    {
+      "stage": "record selection/review",
+      "support": "browser form interactions and Finance-record context"
+    },
+    {
+      "stage": "supporting-document/reference lookup",
+      "support": "Word, Notepad, Excel, clipboard, and cross-application activity; interpretation is provisional"
+    },
+    {
+      "stage": "review/decision",
+      "support": "inferred from record context before documentation; not directly labelled in logs"
+    },
+    {
+      "stage": "comment generation/input",
+      "support": "direct pi-note UI id"
+    },
+    {
+      "stage": "confirmation/registration",
+      "support": "direct btn-pi-ok UI id"
+    },
+    {
+      "stage": "next-record behavior",
+      "support": "repeated cycles in the same session"
+    }
+  ],
+  "stage_event_counts": {
+    "finance_record_context": 6180,
+    "supporting_document_lookup": 5364,
+    "comment_input": 540,
+    "confirmation_registration": 247,
+    "reference_or_comment_transfer": 872,
+    "record_review_or_input": 608
+  },
+  "stable_core": [
+    "structured field comparison",
+    "comment drafting/input",
+    "human-confirmed registration"
+  ],
+  "branches_and_exceptions": [
+    "missing or conflicting reference data",
+    "amount/supplier discrepancy",
+    "business-rule judgement",
+    "uncertain supporting-document interpretation"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "observed_workload": {
+    "events": 20477,
+    "sessions": 15,
+    "event_files": 20,
+    "session_elapsed_seconds": 10574.831,
+    "finance_or_invoice_context_events": 8354,
+    "pi_note_direct_events": 540,
+    "btn_pi_ok_direct_events": 247,
+    "high_volume_interactions": {
+      "browser_click": 1914,
+      "browser_form_input": 608,
+      "clipboard_change": 872,
+      "keystroke": 4678,
+      "shortcut": 1386
+    }
+  },
+  "automation_scope": {
+    "automatable_assistance": [
+      "supplier/reference lookup after validated integration",
+      "supplier and amount comparison",
+      "difference flagging",
+      "standardized comment draft"
+    ],
+    "human_work_remaining": [
+      "validate source/reference data",
+      "resolve exceptions and ambiguous cases",
+      "edit draft where necessary",
+      "final approval and registration"
+    ],
+    "impact_interpretation": "No time saving is estimated: Dataset B has no ground truth and test-environment waiting time is not production timing."
+  },
+  "feasibility": {
+    "prototype": "high: deterministic field comparison uses explicit inputs",
+    "production_integration": "conditional: needs approved source-system read access, field mapping, reference-data ownership, audit logs and human approval",
+    "constraints": [
+      "no business-process ground truth in Dataset B",
+      "BPROC_01 segments are fragmented/interleaved and are not business-execution counts",
+      "desktop logs do not establish permissions or business-rule semantics"
+    ]
+  }
+}

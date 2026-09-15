@@ -1,0 +1,1436 @@
+[
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:44:51.368Z",
+    "confirm_at": "2026-07-01T16:44:54.625Z",
+    "elapsed_seconds": 3.257
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:45:05.186Z",
+    "confirm_at": "2026-07-01T16:45:07.908Z",
+    "elapsed_seconds": 2.722
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:45:40.158Z",
+    "confirm_at": "2026-07-01T16:45:43.094Z",
+    "elapsed_seconds": 2.936
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:45:56.173Z",
+    "confirm_at": "2026-07-01T16:45:59.029Z",
+    "elapsed_seconds": 2.856
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:46:07.199Z",
+    "confirm_at": "2026-07-01T16:46:10.015Z",
+    "elapsed_seconds": 2.816
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:46:18.690Z",
+    "confirm_at": "2026-07-01T16:46:21.380Z",
+    "elapsed_seconds": 2.69
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:46:29.777Z",
+    "confirm_at": "2026-07-01T16:46:32.675Z",
+    "elapsed_seconds": 2.898
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:46:40.642Z",
+    "confirm_at": "2026-07-01T16:46:43.148Z",
+    "elapsed_seconds": 2.506
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:46:52.982Z",
+    "confirm_at": "2026-07-01T16:46:55.892Z",
+    "elapsed_seconds": 2.91
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:47:12.148Z",
+    "confirm_at": "2026-07-01T16:47:15.011Z",
+    "elapsed_seconds": 2.863
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:47:37.137Z",
+    "confirm_at": "2026-07-01T16:47:40.162Z",
+    "elapsed_seconds": 3.025
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:52:20.639Z",
+    "confirm_at": "2026-07-01T16:52:23.315Z",
+    "elapsed_seconds": 2.676
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:52:36.313Z",
+    "confirm_at": "2026-07-01T16:52:39.074Z",
+    "elapsed_seconds": 2.761
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:52:47.523Z",
+    "confirm_at": "2026-07-01T16:52:50.506Z",
+    "elapsed_seconds": 2.983
+  },
+  {
+    "session_id": "ses_20260701-164424-CHAITANYA0BCF",
+    "note_at": "2026-07-01T16:52:59.064Z",
+    "confirm_at": "2026-07-01T16:53:02.074Z",
+    "elapsed_seconds": 3.01
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:17:34.789Z",
+    "confirm_at": "2026-07-01T17:17:37.850Z",
+    "elapsed_seconds": 3.061
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:17:47.348Z",
+    "confirm_at": "2026-07-01T17:17:49.948Z",
+    "elapsed_seconds": 2.6
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:17:55.483Z",
+    "confirm_at": "2026-07-01T17:17:58.200Z",
+    "elapsed_seconds": 2.717
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:18:04.955Z",
+    "confirm_at": "2026-07-01T17:18:07.594Z",
+    "elapsed_seconds": 2.639
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:18:20.583Z",
+    "confirm_at": "2026-07-01T17:18:23.488Z",
+    "elapsed_seconds": 2.905
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:18:31.749Z",
+    "confirm_at": "2026-07-01T17:18:34.811Z",
+    "elapsed_seconds": 3.062
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:18:41.282Z",
+    "confirm_at": "2026-07-01T17:18:43.865Z",
+    "elapsed_seconds": 2.583
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:18:49.795Z",
+    "confirm_at": "2026-07-01T17:18:52.363Z",
+    "elapsed_seconds": 2.568
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:24:45.794Z",
+    "confirm_at": "2026-07-01T17:24:48.695Z",
+    "elapsed_seconds": 2.901
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:24:54.226Z",
+    "confirm_at": "2026-07-01T17:24:57.145Z",
+    "elapsed_seconds": 2.919
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:25:02.659Z",
+    "confirm_at": "2026-07-01T17:25:05.534Z",
+    "elapsed_seconds": 2.875
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:25:11.830Z",
+    "confirm_at": "2026-07-01T17:25:14.428Z",
+    "elapsed_seconds": 2.598
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:29:30.256Z",
+    "confirm_at": "2026-07-01T17:29:32.991Z",
+    "elapsed_seconds": 2.735
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:29:38.978Z",
+    "confirm_at": "2026-07-01T17:29:41.493Z",
+    "elapsed_seconds": 2.515
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:29:47.364Z",
+    "confirm_at": "2026-07-01T17:29:49.976Z",
+    "elapsed_seconds": 2.612
+  },
+  {
+    "session_id": "ses_20260701-171614-CHAITANYA0BCF",
+    "note_at": "2026-07-01T17:29:55.667Z",
+    "confirm_at": "2026-07-01T17:29:58.490Z",
+    "elapsed_seconds": 2.823
+  },
+  {
+    "session_id": "ses_20260701-173246-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:33:23.063Z",
+    "confirm_at": "2026-07-01T17:33:25.860Z",
+    "elapsed_seconds": 2.797
+  },
+  {
+    "session_id": "ses_20260701-173246-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:33:36.365Z",
+    "confirm_at": "2026-07-01T17:33:39.460Z",
+    "elapsed_seconds": 3.095
+  },
+  {
+    "session_id": "ses_20260701-173246-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:33:48.146Z",
+    "confirm_at": "2026-07-01T17:33:50.995Z",
+    "elapsed_seconds": 2.849
+  },
+  {
+    "session_id": "ses_20260701-173246-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:42:31.138Z",
+    "confirm_at": "2026-07-01T17:42:33.763Z",
+    "elapsed_seconds": 2.625
+  },
+  {
+    "session_id": "ses_20260701-173246-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:42:41.592Z",
+    "confirm_at": "2026-07-01T17:42:44.507Z",
+    "elapsed_seconds": 2.915
+  },
+  {
+    "session_id": "ses_20260701-173246-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:42:52.991Z",
+    "confirm_at": "2026-07-01T17:42:55.989Z",
+    "elapsed_seconds": 2.998
+  },
+  {
+    "session_id": "ses_20260701-173246-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:43:04.171Z",
+    "confirm_at": "2026-07-01T17:43:06.939Z",
+    "elapsed_seconds": 2.768
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:37:39.739Z",
+    "confirm_at": "2026-07-01T17:37:42.656Z",
+    "elapsed_seconds": 2.917
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:37:48.239Z",
+    "confirm_at": "2026-07-01T17:37:51.057Z",
+    "elapsed_seconds": 2.818
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:38:02.671Z",
+    "confirm_at": "2026-07-01T17:38:05.425Z",
+    "elapsed_seconds": 2.754
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:38:13.089Z",
+    "confirm_at": "2026-07-01T17:38:15.605Z",
+    "elapsed_seconds": 2.516
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:39:08.587Z",
+    "confirm_at": "2026-07-01T17:39:11.352Z",
+    "elapsed_seconds": 2.765
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:39:20.904Z",
+    "confirm_at": "2026-07-01T17:39:23.890Z",
+    "elapsed_seconds": 2.986
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:39:31.354Z",
+    "confirm_at": "2026-07-01T17:39:34.173Z",
+    "elapsed_seconds": 2.819
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:39:42.105Z",
+    "confirm_at": "2026-07-01T17:39:44.685Z",
+    "elapsed_seconds": 2.58
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:40:56.828Z",
+    "confirm_at": "2026-07-01T17:40:59.555Z",
+    "elapsed_seconds": 2.727
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:41:09.226Z",
+    "confirm_at": "2026-07-01T17:41:12.205Z",
+    "elapsed_seconds": 2.979
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:41:20.621Z",
+    "confirm_at": "2026-07-01T17:41:23.541Z",
+    "elapsed_seconds": 2.92
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:41:28.924Z",
+    "confirm_at": "2026-07-01T17:41:31.705Z",
+    "elapsed_seconds": 2.781
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:41:37.185Z",
+    "confirm_at": "2026-07-01T17:41:40.118Z",
+    "elapsed_seconds": 2.933
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:41:45.452Z",
+    "confirm_at": "2026-07-01T17:41:48.029Z",
+    "elapsed_seconds": 2.577
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:41:57.422Z",
+    "confirm_at": "2026-07-01T17:42:00.229Z",
+    "elapsed_seconds": 2.807
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:42:12.820Z",
+    "confirm_at": "2026-07-01T17:42:15.490Z",
+    "elapsed_seconds": 2.67
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:42:36.978Z",
+    "confirm_at": "2026-07-01T17:42:39.571Z",
+    "elapsed_seconds": 2.593
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:43:03.910Z",
+    "confirm_at": "2026-07-01T17:43:06.738Z",
+    "elapsed_seconds": 2.828
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:43:40.104Z",
+    "confirm_at": "2026-07-01T17:43:42.988Z",
+    "elapsed_seconds": 2.884
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:43:51.263Z",
+    "confirm_at": "2026-07-01T17:43:54.164Z",
+    "elapsed_seconds": 2.901
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:43:59.622Z",
+    "confirm_at": "2026-07-01T17:44:02.552Z",
+    "elapsed_seconds": 2.93
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:44:07.897Z",
+    "confirm_at": "2026-07-01T17:44:10.717Z",
+    "elapsed_seconds": 2.82
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:45:06.599Z",
+    "confirm_at": "2026-07-01T17:45:09.391Z",
+    "elapsed_seconds": 2.792
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:45:19.092Z",
+    "confirm_at": "2026-07-01T17:45:22.176Z",
+    "elapsed_seconds": 3.084
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:45:29.421Z",
+    "confirm_at": "2026-07-01T17:45:32.425Z",
+    "elapsed_seconds": 3.004
+  },
+  {
+    "session_id": "ses_20260701-173642-NEELA9BAF",
+    "note_at": "2026-07-01T17:45:52.249Z",
+    "confirm_at": "2026-07-01T17:45:54.889Z",
+    "elapsed_seconds": 2.64
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:54:24.606Z",
+    "confirm_at": "2026-07-01T17:54:27.361Z",
+    "elapsed_seconds": 2.755
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:54:34.568Z",
+    "confirm_at": "2026-07-01T17:54:37.465Z",
+    "elapsed_seconds": 2.897
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:54:44.785Z",
+    "confirm_at": "2026-07-01T17:54:47.351Z",
+    "elapsed_seconds": 2.566
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:54:52.583Z",
+    "confirm_at": "2026-07-01T17:54:55.261Z",
+    "elapsed_seconds": 2.678
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:55:07.460Z",
+    "confirm_at": "2026-07-01T17:55:10.001Z",
+    "elapsed_seconds": 2.541
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:55:17.425Z",
+    "confirm_at": "2026-07-01T17:55:20.044Z",
+    "elapsed_seconds": 2.619
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:55:27.927Z",
+    "confirm_at": "2026-07-01T17:55:30.806Z",
+    "elapsed_seconds": 2.879
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:55:37.130Z",
+    "confirm_at": "2026-07-01T17:55:39.702Z",
+    "elapsed_seconds": 2.572
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:57:31.828Z",
+    "confirm_at": "2026-07-01T17:57:34.498Z",
+    "elapsed_seconds": 2.67
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:57:42.803Z",
+    "confirm_at": "2026-07-01T17:57:45.467Z",
+    "elapsed_seconds": 2.664
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:57:53.895Z",
+    "confirm_at": "2026-07-01T17:57:56.600Z",
+    "elapsed_seconds": 2.705
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:58:04.152Z",
+    "confirm_at": "2026-07-01T17:58:07.090Z",
+    "elapsed_seconds": 2.938
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:59:08.470Z",
+    "confirm_at": "2026-07-01T17:59:11.412Z",
+    "elapsed_seconds": 2.942
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:59:17.137Z",
+    "confirm_at": "2026-07-01T17:59:20.054Z",
+    "elapsed_seconds": 2.917
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:59:28.378Z",
+    "confirm_at": "2026-07-01T17:59:31.294Z",
+    "elapsed_seconds": 2.916
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T17:59:36.583Z",
+    "confirm_at": "2026-07-01T17:59:39.303Z",
+    "elapsed_seconds": 2.72
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:02:02.511Z",
+    "confirm_at": "2026-07-01T18:02:05.248Z",
+    "elapsed_seconds": 2.737
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:02:10.665Z",
+    "confirm_at": "2026-07-01T18:02:13.701Z",
+    "elapsed_seconds": 3.036
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:02:36.035Z",
+    "confirm_at": "2026-07-01T18:02:38.791Z",
+    "elapsed_seconds": 2.756
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:02:54.571Z",
+    "confirm_at": "2026-07-01T18:02:57.460Z",
+    "elapsed_seconds": 2.889
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:03:15.027Z",
+    "confirm_at": "2026-07-01T18:03:17.772Z",
+    "elapsed_seconds": 2.745
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:03:26.718Z",
+    "confirm_at": "2026-07-01T18:03:29.444Z",
+    "elapsed_seconds": 2.726
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:03:39.415Z",
+    "confirm_at": "2026-07-01T18:03:42.361Z",
+    "elapsed_seconds": 2.946
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:04:02.139Z",
+    "confirm_at": "2026-07-01T18:04:05.024Z",
+    "elapsed_seconds": 2.885
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:04:13.271Z",
+    "confirm_at": "2026-07-01T18:04:15.829Z",
+    "elapsed_seconds": 2.558
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:04:21.748Z",
+    "confirm_at": "2026-07-01T18:04:24.665Z",
+    "elapsed_seconds": 2.917
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:04:31.902Z",
+    "confirm_at": "2026-07-01T18:04:34.835Z",
+    "elapsed_seconds": 2.933
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:04:39.925Z",
+    "confirm_at": "2026-07-01T18:04:42.899Z",
+    "elapsed_seconds": 2.974
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:04:51.324Z",
+    "confirm_at": "2026-07-01T18:04:54.068Z",
+    "elapsed_seconds": 2.744
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:04:59.533Z",
+    "confirm_at": "2026-07-01T18:05:02.526Z",
+    "elapsed_seconds": 2.993
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:05:08.209Z",
+    "confirm_at": "2026-07-01T18:05:10.889Z",
+    "elapsed_seconds": 2.68
+  },
+  {
+    "session_id": "ses_20260701-175258-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:05:16.765Z",
+    "confirm_at": "2026-07-01T18:05:19.624Z",
+    "elapsed_seconds": 2.859
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:58:35.003Z",
+    "confirm_at": "2026-07-01T17:58:38.422Z",
+    "elapsed_seconds": 3.419
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:58:44.034Z",
+    "confirm_at": "2026-07-01T17:58:46.800Z",
+    "elapsed_seconds": 2.766
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:58:54.601Z",
+    "confirm_at": "2026-07-01T17:58:57.503Z",
+    "elapsed_seconds": 2.902
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:59:03.675Z",
+    "confirm_at": "2026-07-01T17:59:06.621Z",
+    "elapsed_seconds": 2.946
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:59:21.109Z",
+    "confirm_at": "2026-07-01T17:59:23.885Z",
+    "elapsed_seconds": 2.776
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:59:29.888Z",
+    "confirm_at": "2026-07-01T17:59:32.702Z",
+    "elapsed_seconds": 2.814
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:59:43.066Z",
+    "confirm_at": "2026-07-01T17:59:45.817Z",
+    "elapsed_seconds": 2.751
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T17:59:51.884Z",
+    "confirm_at": "2026-07-01T17:59:54.703Z",
+    "elapsed_seconds": 2.819
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:01:28.300Z",
+    "confirm_at": "2026-07-01T18:01:30.948Z",
+    "elapsed_seconds": 2.648
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:01:38.233Z",
+    "confirm_at": "2026-07-01T18:01:41.302Z",
+    "elapsed_seconds": 3.069
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:01:48.999Z",
+    "confirm_at": "2026-07-01T18:01:51.668Z",
+    "elapsed_seconds": 2.669
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:01:59.318Z",
+    "confirm_at": "2026-07-01T18:02:02.101Z",
+    "elapsed_seconds": 2.783
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:02:40.391Z",
+    "confirm_at": "2026-07-01T18:02:43.133Z",
+    "elapsed_seconds": 2.742
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:02:59.566Z",
+    "confirm_at": "2026-07-01T18:03:02.717Z",
+    "elapsed_seconds": 3.151
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:03:14.297Z",
+    "confirm_at": "2026-07-01T18:03:17.250Z",
+    "elapsed_seconds": 2.953
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:03:30.279Z",
+    "confirm_at": "2026-07-01T18:03:32.999Z",
+    "elapsed_seconds": 2.72
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:06:03.955Z",
+    "confirm_at": "2026-07-01T18:06:06.866Z",
+    "elapsed_seconds": 2.911
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:06:15.994Z",
+    "confirm_at": "2026-07-01T18:06:18.954Z",
+    "elapsed_seconds": 2.96
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:06:27.183Z",
+    "confirm_at": "2026-07-01T18:06:29.780Z",
+    "elapsed_seconds": 2.597
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:06:35.970Z",
+    "confirm_at": "2026-07-01T18:06:38.765Z",
+    "elapsed_seconds": 2.795
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:06:47.847Z",
+    "confirm_at": "2026-07-01T18:06:50.632Z",
+    "elapsed_seconds": 2.785
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:06:56.714Z",
+    "confirm_at": "2026-07-01T18:06:59.315Z",
+    "elapsed_seconds": 2.601
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:07:09.074Z",
+    "confirm_at": "2026-07-01T18:07:11.680Z",
+    "elapsed_seconds": 2.606
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:07:20.748Z",
+    "confirm_at": "2026-07-01T18:07:23.365Z",
+    "elapsed_seconds": 2.617
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:07:33.814Z",
+    "confirm_at": "2026-07-01T18:07:36.717Z",
+    "elapsed_seconds": 2.903
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:07:49.997Z",
+    "confirm_at": "2026-07-01T18:07:52.950Z",
+    "elapsed_seconds": 2.953
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:08:00.330Z",
+    "confirm_at": "2026-07-01T18:08:03.215Z",
+    "elapsed_seconds": 2.885
+  },
+  {
+    "session_id": "ses_20260701-175747-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:08:11.197Z",
+    "confirm_at": "2026-07-01T18:08:14.079Z",
+    "elapsed_seconds": 2.882
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:17:09.651Z",
+    "confirm_at": "2026-07-01T18:17:12.693Z",
+    "elapsed_seconds": 3.042
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:17:18.017Z",
+    "confirm_at": "2026-07-01T18:17:20.879Z",
+    "elapsed_seconds": 2.862
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:18:31.351Z",
+    "confirm_at": "2026-07-01T18:18:34.076Z",
+    "elapsed_seconds": 2.725
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:18:39.786Z",
+    "confirm_at": "2026-07-01T18:18:42.604Z",
+    "elapsed_seconds": 2.818
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:18:50.835Z",
+    "confirm_at": "2026-07-01T18:18:53.828Z",
+    "elapsed_seconds": 2.993
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:19:04.551Z",
+    "confirm_at": "2026-07-01T18:19:07.494Z",
+    "elapsed_seconds": 2.943
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:21:00.012Z",
+    "confirm_at": "2026-07-01T18:21:02.883Z",
+    "elapsed_seconds": 2.871
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:21:11.796Z",
+    "confirm_at": "2026-07-01T18:21:14.469Z",
+    "elapsed_seconds": 2.673
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:21:28.191Z",
+    "confirm_at": "2026-07-01T18:21:30.751Z",
+    "elapsed_seconds": 2.56
+  },
+  {
+    "session_id": "ses_20260701-180923-NEELA9BAF",
+    "note_at": "2026-07-01T18:21:41.112Z",
+    "confirm_at": "2026-07-01T18:21:43.929Z",
+    "elapsed_seconds": 2.817
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:20:03.043Z",
+    "confirm_at": "2026-07-01T18:20:05.870Z",
+    "elapsed_seconds": 2.827
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:20:16.313Z",
+    "confirm_at": "2026-07-01T18:20:19.231Z",
+    "elapsed_seconds": 2.918
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:20:35.933Z",
+    "confirm_at": "2026-07-01T18:20:38.669Z",
+    "elapsed_seconds": 2.736
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:20:44.813Z",
+    "confirm_at": "2026-07-01T18:20:47.448Z",
+    "elapsed_seconds": 2.635
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:21:55.802Z",
+    "confirm_at": "2026-07-01T18:21:58.566Z",
+    "elapsed_seconds": 2.764
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:22:20.606Z",
+    "confirm_at": "2026-07-01T18:22:23.331Z",
+    "elapsed_seconds": 2.725
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:22:34.194Z",
+    "confirm_at": "2026-07-01T18:22:37.195Z",
+    "elapsed_seconds": 3.001
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:22:46.294Z",
+    "confirm_at": "2026-07-01T18:22:49.280Z",
+    "elapsed_seconds": 2.986
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:26:03.559Z",
+    "confirm_at": "2026-07-01T18:26:06.462Z",
+    "elapsed_seconds": 2.903
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:26:23.878Z",
+    "confirm_at": "2026-07-01T18:26:26.438Z",
+    "elapsed_seconds": 2.56
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:26:37.159Z",
+    "confirm_at": "2026-07-01T18:26:39.992Z",
+    "elapsed_seconds": 2.833
+  },
+  {
+    "session_id": "ses_20260701-181413-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:26:57.202Z",
+    "confirm_at": "2026-07-01T18:26:59.919Z",
+    "elapsed_seconds": 2.717
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:20:32.108Z",
+    "confirm_at": "2026-07-01T18:20:34.833Z",
+    "elapsed_seconds": 2.725
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:20:45.519Z",
+    "confirm_at": "2026-07-01T18:20:48.074Z",
+    "elapsed_seconds": 2.555
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:20:58.558Z",
+    "confirm_at": "2026-07-01T18:21:01.606Z",
+    "elapsed_seconds": 3.048
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:21:07.096Z",
+    "confirm_at": "2026-07-01T18:21:09.785Z",
+    "elapsed_seconds": 2.689
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:27:04.944Z",
+    "confirm_at": "2026-07-01T18:27:08.005Z",
+    "elapsed_seconds": 3.061
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:27:17.292Z",
+    "confirm_at": "2026-07-01T18:27:20.035Z",
+    "elapsed_seconds": 2.743
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:27:25.615Z",
+    "confirm_at": "2026-07-01T18:27:28.471Z",
+    "elapsed_seconds": 2.856
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:27:33.961Z",
+    "confirm_at": "2026-07-01T18:27:36.835Z",
+    "elapsed_seconds": 2.874
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:28:13.374Z",
+    "confirm_at": "2026-07-01T18:28:13.419Z",
+    "elapsed_seconds": 0.045
+  },
+  {
+    "session_id": "ses_20260701-181913-SIDDHIGUPTAB00B",
+    "note_at": "2026-07-01T18:28:22.434Z",
+    "confirm_at": "2026-07-01T18:28:22.481Z",
+    "elapsed_seconds": 0.047
+  },
+  {
+    "session_id": "ses_20260701-182634-NEELA9BAF",
+    "note_at": "2026-07-01T18:29:47.991Z",
+    "confirm_at": "2026-07-01T18:29:50.707Z",
+    "elapsed_seconds": 2.716
+  },
+  {
+    "session_id": "ses_20260701-182634-NEELA9BAF",
+    "note_at": "2026-07-01T18:30:00.318Z",
+    "confirm_at": "2026-07-01T18:30:03.261Z",
+    "elapsed_seconds": 2.943
+  },
+  {
+    "session_id": "ses_20260701-182634-NEELA9BAF",
+    "note_at": "2026-07-01T18:30:25.731Z",
+    "confirm_at": "2026-07-01T18:30:28.628Z",
+    "elapsed_seconds": 2.897
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:32:55.766Z",
+    "confirm_at": "2026-07-01T18:32:58.989Z",
+    "elapsed_seconds": 3.223
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:33:06.402Z",
+    "confirm_at": "2026-07-01T18:33:09.023Z",
+    "elapsed_seconds": 2.621
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:33:19.719Z",
+    "confirm_at": "2026-07-01T18:33:22.353Z",
+    "elapsed_seconds": 2.634
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:33:27.879Z",
+    "confirm_at": "2026-07-01T18:33:30.787Z",
+    "elapsed_seconds": 2.908
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:33:39.080Z",
+    "confirm_at": "2026-07-01T18:33:42.021Z",
+    "elapsed_seconds": 2.941
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:33:47.793Z",
+    "confirm_at": "2026-07-01T18:33:50.393Z",
+    "elapsed_seconds": 2.6
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:34:32.393Z",
+    "confirm_at": "2026-07-01T18:34:34.963Z",
+    "elapsed_seconds": 2.57
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:34:41.051Z",
+    "confirm_at": "2026-07-01T18:34:43.843Z",
+    "elapsed_seconds": 2.792
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:34:49.278Z",
+    "confirm_at": "2026-07-01T18:34:52.170Z",
+    "elapsed_seconds": 2.892
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:34:59.574Z",
+    "confirm_at": "2026-07-01T18:35:02.200Z",
+    "elapsed_seconds": 2.626
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:35:11.751Z",
+    "confirm_at": "2026-07-01T18:35:14.733Z",
+    "elapsed_seconds": 2.982
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:35:20.167Z",
+    "confirm_at": "2026-07-01T18:35:23.063Z",
+    "elapsed_seconds": 2.896
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:35:30.138Z",
+    "confirm_at": "2026-07-01T18:35:32.913Z",
+    "elapsed_seconds": 2.775
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:35:38.969Z",
+    "confirm_at": "2026-07-01T18:35:41.822Z",
+    "elapsed_seconds": 2.853
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:35:50.626Z",
+    "confirm_at": "2026-07-01T18:35:53.476Z",
+    "elapsed_seconds": 2.85
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:35:59.019Z",
+    "confirm_at": "2026-07-01T18:36:01.714Z",
+    "elapsed_seconds": 2.695
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:37:23.696Z",
+    "confirm_at": "2026-07-01T18:37:26.656Z",
+    "elapsed_seconds": 2.96
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:37:31.809Z",
+    "confirm_at": "2026-07-01T18:37:34.817Z",
+    "elapsed_seconds": 3.008
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:37:41.981Z",
+    "confirm_at": "2026-07-01T18:37:44.840Z",
+    "elapsed_seconds": 2.859
+  },
+  {
+    "session_id": "ses_20260701-183232-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:37:50.664Z",
+    "confirm_at": "2026-07-01T18:37:53.288Z",
+    "elapsed_seconds": 2.624
+  },
+  {
+    "session_id": "ses_20260701-184201-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:52:50.788Z",
+    "confirm_at": "2026-07-01T18:52:53.652Z",
+    "elapsed_seconds": 2.864
+  },
+  {
+    "session_id": "ses_20260701-184201-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:53:01.048Z",
+    "confirm_at": "2026-07-01T18:53:03.729Z",
+    "elapsed_seconds": 2.681
+  },
+  {
+    "session_id": "ses_20260701-184201-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:53:14.282Z",
+    "confirm_at": "2026-07-01T18:53:16.909Z",
+    "elapsed_seconds": 2.627
+  },
+  {
+    "session_id": "ses_20260701-184201-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T18:53:24.801Z",
+    "confirm_at": "2026-07-01T18:53:27.456Z",
+    "elapsed_seconds": 2.655
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:03:11.245Z",
+    "confirm_at": "2026-07-01T19:03:14.809Z",
+    "elapsed_seconds": 3.564
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:03:33.958Z",
+    "confirm_at": "2026-07-01T19:03:36.754Z",
+    "elapsed_seconds": 2.796
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:03:46.538Z",
+    "confirm_at": "2026-07-01T19:03:49.167Z",
+    "elapsed_seconds": 2.629
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:03:59.640Z",
+    "confirm_at": "2026-07-01T19:04:02.286Z",
+    "elapsed_seconds": 2.646
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:04:10.351Z",
+    "confirm_at": "2026-07-01T19:04:13.185Z",
+    "elapsed_seconds": 2.834
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:04:23.697Z",
+    "confirm_at": "2026-07-01T19:04:26.572Z",
+    "elapsed_seconds": 2.875
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:04:39.855Z",
+    "confirm_at": "2026-07-01T19:04:42.605Z",
+    "elapsed_seconds": 2.75
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:04:54.976Z",
+    "confirm_at": "2026-07-01T19:04:57.823Z",
+    "elapsed_seconds": 2.847
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:05:06.855Z",
+    "confirm_at": "2026-07-01T19:05:09.468Z",
+    "elapsed_seconds": 2.613
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:05:17.852Z",
+    "confirm_at": "2026-07-01T19:05:20.701Z",
+    "elapsed_seconds": 2.849
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:05:28.368Z",
+    "confirm_at": "2026-07-01T19:05:31.117Z",
+    "elapsed_seconds": 2.749
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:05:36.618Z",
+    "confirm_at": "2026-07-01T19:05:39.603Z",
+    "elapsed_seconds": 2.985
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:05:52.592Z",
+    "confirm_at": "2026-07-01T19:05:55.236Z",
+    "elapsed_seconds": 2.644
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:06:16.341Z",
+    "confirm_at": "2026-07-01T19:06:19.306Z",
+    "elapsed_seconds": 2.965
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:06:31.846Z",
+    "confirm_at": "2026-07-01T19:06:34.705Z",
+    "elapsed_seconds": 2.859
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:06:57.780Z",
+    "confirm_at": "2026-07-01T19:07:00.386Z",
+    "elapsed_seconds": 2.606
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:07:46.108Z",
+    "confirm_at": "2026-07-01T19:07:48.992Z",
+    "elapsed_seconds": 2.884
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:07:56.752Z",
+    "confirm_at": "2026-07-01T19:07:59.787Z",
+    "elapsed_seconds": 3.035
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:08:07.169Z",
+    "confirm_at": "2026-07-01T19:08:09.872Z",
+    "elapsed_seconds": 2.703
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:08:20.736Z",
+    "confirm_at": "2026-07-01T19:08:23.742Z",
+    "elapsed_seconds": 3.006
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:10:08.368Z",
+    "confirm_at": "2026-07-01T19:10:10.913Z",
+    "elapsed_seconds": 2.545
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:10:19.909Z",
+    "confirm_at": "2026-07-01T19:10:22.460Z",
+    "elapsed_seconds": 2.551
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:10:27.600Z",
+    "confirm_at": "2026-07-01T19:10:30.538Z",
+    "elapsed_seconds": 2.938
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:10:38.185Z",
+    "confirm_at": "2026-07-01T19:10:40.989Z",
+    "elapsed_seconds": 2.804
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:10:54.036Z",
+    "confirm_at": "2026-07-01T19:10:56.920Z",
+    "elapsed_seconds": 2.884
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:11:04.705Z",
+    "confirm_at": "2026-07-01T19:11:07.489Z",
+    "elapsed_seconds": 2.784
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:11:15.686Z",
+    "confirm_at": "2026-07-01T19:11:18.571Z",
+    "elapsed_seconds": 2.885
+  },
+  {
+    "session_id": "ses_20260701-190250-NEELA9BAF",
+    "note_at": "2026-07-01T19:11:26.670Z",
+    "confirm_at": "2026-07-01T19:11:29.431Z",
+    "elapsed_seconds": 2.761
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:16:21.648Z",
+    "confirm_at": "2026-07-01T19:16:24.241Z",
+    "elapsed_seconds": 2.593
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:16:31.615Z",
+    "confirm_at": "2026-07-01T19:16:34.420Z",
+    "elapsed_seconds": 2.805
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:16:42.449Z",
+    "confirm_at": "2026-07-01T19:16:45.180Z",
+    "elapsed_seconds": 2.731
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:16:52.948Z",
+    "confirm_at": "2026-07-01T19:16:55.626Z",
+    "elapsed_seconds": 2.678
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:17:35.512Z",
+    "confirm_at": "2026-07-01T19:17:38.160Z",
+    "elapsed_seconds": 2.648
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:17:43.874Z",
+    "confirm_at": "2026-07-01T19:17:46.703Z",
+    "elapsed_seconds": 2.829
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:17:51.907Z",
+    "confirm_at": "2026-07-01T19:17:54.784Z",
+    "elapsed_seconds": 2.877
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:18:00.481Z",
+    "confirm_at": "2026-07-01T19:18:03.374Z",
+    "elapsed_seconds": 2.893
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:19:21.028Z",
+    "confirm_at": "2026-07-01T19:19:23.670Z",
+    "elapsed_seconds": 2.642
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:19:31.503Z",
+    "confirm_at": "2026-07-01T19:19:34.343Z",
+    "elapsed_seconds": 2.84
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:19:41.690Z",
+    "confirm_at": "2026-07-01T19:19:44.676Z",
+    "elapsed_seconds": 2.986
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:19:50.069Z",
+    "confirm_at": "2026-07-01T19:19:52.909Z",
+    "elapsed_seconds": 2.84
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:20:06.977Z",
+    "confirm_at": "2026-07-01T19:20:10.039Z",
+    "elapsed_seconds": 3.062
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:20:19.184Z",
+    "confirm_at": "2026-07-01T19:20:22.025Z",
+    "elapsed_seconds": 2.841
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:20:31.959Z",
+    "confirm_at": "2026-07-01T19:20:34.661Z",
+    "elapsed_seconds": 2.702
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:20:40.661Z",
+    "confirm_at": "2026-07-01T19:20:43.283Z",
+    "elapsed_seconds": 2.622
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:20:51.123Z",
+    "confirm_at": "2026-07-01T19:20:53.850Z",
+    "elapsed_seconds": 2.727
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:21:01.204Z",
+    "confirm_at": "2026-07-01T19:21:04.168Z",
+    "elapsed_seconds": 2.964
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:21:10.093Z",
+    "confirm_at": "2026-07-01T19:21:12.720Z",
+    "elapsed_seconds": 2.627
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:21:17.940Z",
+    "confirm_at": "2026-07-01T19:21:20.995Z",
+    "elapsed_seconds": 3.055
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:22:33.826Z",
+    "confirm_at": "2026-07-01T19:22:36.391Z",
+    "elapsed_seconds": 2.565
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:22:44.242Z",
+    "confirm_at": "2026-07-01T19:22:47.097Z",
+    "elapsed_seconds": 2.855
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:22:56.301Z",
+    "confirm_at": "2026-07-01T19:22:58.918Z",
+    "elapsed_seconds": 2.617
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:23:04.614Z",
+    "confirm_at": "2026-07-01T19:23:07.513Z",
+    "elapsed_seconds": 2.899
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:24:53.944Z",
+    "confirm_at": "2026-07-01T19:24:56.526Z",
+    "elapsed_seconds": 2.582
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:25:02.728Z",
+    "confirm_at": "2026-07-01T19:25:05.351Z",
+    "elapsed_seconds": 2.623
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:25:13.341Z",
+    "confirm_at": "2026-07-01T19:25:15.925Z",
+    "elapsed_seconds": 2.584
+  },
+  {
+    "session_id": "ses_20260701-191537-LAPTOP-76QMG9DE",
+    "note_at": "2026-07-01T19:25:21.945Z",
+    "confirm_at": "2026-07-01T19:25:24.648Z",
+    "elapsed_seconds": 2.703
+  }
+]

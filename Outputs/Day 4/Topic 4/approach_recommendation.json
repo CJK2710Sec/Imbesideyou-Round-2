@@ -1,0 +1,10 @@
+{
+  "selected": "Deterministic Python assistant",
+  "why": "It is auditable and testable for structured comparisons, with no claim that it can infer business judgement or safely submit transactions.",
+  "rejected_or_deferred": {
+    "RPA/UI automation": "UI and permissions are unvalidated; high fragility.",
+    "AI agent": "not needed for deterministic comparison and adds non-determinism.",
+    "Workflow/orchestration": "valuable after source/API ownership and integration design exist."
+  },
+  "approval_boundary": "Employee reviews all outputs and completes final registration."
+}

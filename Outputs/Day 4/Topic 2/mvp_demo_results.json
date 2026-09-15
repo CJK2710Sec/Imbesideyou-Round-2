@@ -1,0 +1,68 @@
+[
+  {
+    "case": "matching",
+    "invoice": {
+      "invoice_number": "INV-DEMO-001",
+      "supplier": "Demo Supplier",
+      "amount": "120,000"
+    },
+    "reference": {
+      "supplier": "Demo Supplier",
+      "expected_amount": 120000,
+      "invoice_number": "INV-DEMO-001"
+    },
+    "result": {
+      "status": "APPROVAL_CANDIDATE",
+      "supplier_matches": true,
+      "amount_matches": true,
+      "invoice_number_matches": true,
+      "difference": "0",
+      "requires_human_final_approval": true,
+      "comment": "請求書照合（自動下書き）\n請求書番号：INV-DEMO-001\n取引先：Demo Supplier\n請求額：120,000円\n参照額：120,000円\n差額：0円\n照合結果：一致。承認候補（最終確認が必要）。\n※自動登録は行いません。"
+    }
+  },
+  {
+    "case": "amount_discrepancy",
+    "invoice": {
+      "invoice_number": "INV-DEMO-002",
+      "supplier": "Demo Supplier",
+      "amount": 125000
+    },
+    "reference": {
+      "supplier": "Demo Supplier",
+      "expected_amount": 120000,
+      "invoice_number": "INV-DEMO-002"
+    },
+    "result": {
+      "status": "HUMAN_REVIEW_HOLD",
+      "supplier_matches": true,
+      "amount_matches": false,
+      "invoice_number_matches": true,
+      "difference": "5000",
+      "requires_human_final_approval": true,
+      "comment": "請求書照合（自動下書き）\n請求書番号：INV-DEMO-002\n取引先：Demo Supplier\n請求額：125,000円\n参照額：120,000円\n差額：5,000円\n照合結果：差異あり（金額）。人による確認・保留。\n※自動登録は行いません。"
+    }
+  },
+  {
+    "case": "supplier_discrepancy",
+    "invoice": {
+      "invoice_number": "INV-DEMO-003",
+      "supplier": "Other Supplier",
+      "amount": 120000
+    },
+    "reference": {
+      "supplier": "Demo Supplier",
+      "expected_amount": 120000,
+      "invoice_number": "INV-DEMO-003"
+    },
+    "result": {
+      "status": "HUMAN_REVIEW_HOLD",
+      "supplier_matches": false,
+      "amount_matches": true,
+      "invoice_number_matches": true,
+      "difference": "0",
+      "requires_human_final_approval": true,
+      "comment": "請求書照合（自動下書き）\n請求書番号：INV-DEMO-003\n取引先：Other Supplier\n請求額：120,000円\n参照額：120,000円\n差額：0円\n照合結果：差異あり（取引先）。人による確認・保留。\n※自動登録は行いません。"
+    }
+  }
+]
